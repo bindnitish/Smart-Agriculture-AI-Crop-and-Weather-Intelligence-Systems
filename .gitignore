@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Datasets
+datasets/
+dataset/
+data/
+
+# Trained model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and generated outputs
+logs/
+outputs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

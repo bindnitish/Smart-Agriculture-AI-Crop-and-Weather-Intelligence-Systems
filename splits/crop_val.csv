@@ -1,0 +1,1517 @@
+image_path,class,label
+datasets\crop\maize\ca1f4a1f-eacf-4fa9-9649-32353c8cc164___RS_GLSp 7342.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (52).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1422).jpg,sugarcane,3
+datasets\crop\wheat\healthy_799.png,wheat,4
+datasets\crop\maize\cd7d0886-6486-4689-b45c-5e60ea79fdb2___R.S_HL 0623 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_9178.jpg,rice,2
+datasets\crop\maize\d518aedb-9e6e-4567-bb79-1f019415d61c___R.S_HL 8010 copy.jpg,maize,1
+datasets\crop\maize\186c5f5d-a8d7-40bf-abe7-cebefa66808c___RS_GLSp 4355 copy 2_90deg.jpg,maize,1
+datasets\crop\rice\Leaf_scald (54).jpg,rice,2
+datasets\crop\maize\f066fbc0-7910-46af-bcff-cb06cef2177d___R.S_HL 7951 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\smut (1581).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1028).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1293).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_76.png,wheat,4
+datasets\crop\rice\aug_0_3504.jpg,rice,2
+datasets\crop\sugarcane\smut (1012).jpg,sugarcane,3
+datasets\crop\maize\d3e2528d-3e05-4dc0-bb6b-56dcf17d01d6___RS_GLSp 7316_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_5270.jpg,rice,2
+datasets\crop\maize\966ea8fb-bc23-4161-810b-8c2251c6a1cc___RS_GLSp 4474_90deg.JPG,maize,1
+datasets\crop\rice\IMG_20231014_171236.jpg,rice,2
+datasets\crop\rice\aug_0_6090.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1870).jpg,sugarcane,3
+datasets\crop\maize\3e52b140-6513-4a97-8ee8-9935a7d4b8b8___RS_GLSp 9279_270deg.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1086).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_411.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (186).jpg,jute,0
+datasets\crop\rice\aug_0_7.jpg,rice,2
+datasets\crop\maize\5dcd9141-4aaf-41c7-94a5-0af587f0a58c___RS_GLSp 4391_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_3107.jpg,rice,2
+datasets\crop\maize\1cf6abd0-261e-4a8c-92b4-92320be88999___R.S_HL 8121 copy 2.jpg,maize,1
+datasets\crop\jute\Healthy (198).jpg_original.jpg_anticlockwise.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (42).jpg,jute,0
+datasets\crop\rice\IMG_20231014_173437_1.jpg,rice,2
+datasets\crop\maize\cf1a5200-6ba7-4b6f-af28-969e47db1c7e___RS_GLSp 4660_270deg.JPG,maize,1
+datasets\crop\rice\Healthy_rice_leaf (35).jpg,rice,2
+datasets\crop\sugarcane\smut (1775).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (401).jpg,sugarcane,3
+datasets\crop\jute\Healthy (195).jpg_zoom_in.jpg_anticlockwise.jpg,jute,0
+datasets\crop\maize\59633534-1c22-49c5-a8c8-909653945bf7___R.S_HL 7912 copy 2_flipLR.jpg,maize,1
+datasets\crop\wheat\septoria_170.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (128).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1334).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (218).jpg,jute,0
+datasets\crop\wheat\healthy_124.png,wheat,4
+datasets\crop\maize\3a668261-388a-45c1-8a8e-584cb3966bf0___R.S_HL 8071 copy_flipLR.jpg,maize,1
+datasets\crop\rice\Healthy_rice_leaf (39).jpg,rice,2
+datasets\crop\sugarcane\smut (1329).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7167.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (377).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3129.jpg,rice,2
+datasets\crop\rice\aug_0_5463.jpg,rice,2
+datasets\crop\maize\64bc2a39-3715-4de9-8fd7-453017c61517___R.S_HL 0639 copy 2.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1503).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (274).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6203.jpg,rice,2
+datasets\crop\rice\aug_0_4488.jpg,rice,2
+datasets\crop\sugarcane\smut (1114).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1002).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9604.jpg,rice,2
+datasets\crop\maize\cc668ee3-06c8-4bdd-8fbc-231ffb7e56c8___R.S_HL 8113 copy 2_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (256).jpg,jute,0
+datasets\crop\rice\aug_0_9690.jpg,rice,2
+datasets\crop\maize\ce28178f-e53a-4555-90b4-d7156fd8333a___RS_GLSp 9307_90deg.JPG,maize,1
+datasets\crop\sugarcane\smut (171).jpg,sugarcane,3
+datasets\crop\wheat\healthy_145.png,wheat,4
+datasets\crop\maize\c47c1b5d-7527-4f1c-a3b0-8d737c5ccbaf___RS_GLSp 4457_90deg.JPG,maize,1
+datasets\crop\wheat\healthy_165.png,wheat,4
+datasets\crop\rice\aug_0_2952.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1915).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_173134.jpg,rice,2
+datasets\crop\rice\aug_0_9997.jpg,rice,2
+datasets\crop\maize\4619bdbf-5229-4af8-9bdc-1a9b3a25c817___R.S_HL 8263 copy.jpg,maize,1
+datasets\crop\wheat\leaf_blight_748.png,wheat,4
+datasets\crop\sugarcane\smut (1378).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (295).jpg_bright_inc.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1514).jpg,sugarcane,3
+datasets\crop\maize\662b5ad2-c80d-4c4b-ba98-7075c52698ac___R.S_HL 8008 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_8253.jpg,rice,2
+datasets\crop\maize\987f8819-fe72-413a-bf64-9a4d07acf353___RS_GLSp 9351 copy_new30degFlipLR.jpg,maize,1
+datasets\crop\maize\7d1ec17f-c68a-43dc-a2b6-d372d9adc5dc___R.S_HL 8136 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_9924.jpg,rice,2
+datasets\crop\maize\f7f289da-cdf0-4f65-b4f8-1afc4507a32f___R.S_HL 7880 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (107).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1818).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (142).jpg,jute,0
+datasets\crop\jute\Healthy (203).jpg,jute,0
+datasets\crop\rice\aug_0_9410.jpg,rice,2
+datasets\crop\maize\993fce59-927c-405d-9761-784d15d8c799___R.S_HL 8064 copy 2_flipLR.jpg,maize,1
+datasets\crop\wheat\septoria_1038.png,wheat,4
+datasets\crop\rice\Brown_spot (109).jpg,rice,2
+datasets\crop\rice\aug_0_3183.jpg,rice,2
+datasets\crop\rice\Healthy_rice_leaf (2).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1444).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1033).jpg,sugarcane,3
+datasets\crop\rice\aug_0_707.jpg,rice,2
+datasets\crop\rice\aug_0_4205.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1367).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6824.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1786).jpg,sugarcane,3
+datasets\crop\rice\Healthy_rice_leaf (3).jpg,rice,2
+datasets\crop\rice\aug_0_6901.jpg,rice,2
+datasets\crop\wheat\leaf_blight_180.png,wheat,4
+datasets\crop\maize\276eaa0e-3c86-4190-8701-fdb5f9148bb1___RS_GLSp 7283_270deg.JPG,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (192).jpg_bright_dec.jpg_hvflip.jpg,jute,0
+datasets\crop\wheat\healthy_984.png,wheat,4
+datasets\crop\wheat\leaf_blight_626.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (144).jpg,jute,0
+datasets\crop\maize\88bd95d6-469d-4588-94c9-d11c330951bd___RS_GLSp 4468.JPG,maize,1
+datasets\crop\rice\aug_0_1845.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (210).jpg_bright_dec.jpg_vflip.jpg,jute,0
+datasets\crop\maize\629273b6-9eaa-4084-b72b-ac856a9ef899___RS_GLSp 4636_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_6919.jpg,rice,2
+datasets\crop\rice\aug_0_9013.jpg,rice,2
+datasets\crop\jute\Healthy (100).jpg_original.jpg_vflip.jpg,jute,0
+datasets\crop\maize\8858dd29-eac0-443a-8213-425bbe223f7e___RS_GLSp 7334.JPG,maize,1
+datasets\crop\rice\aug_0_3456.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (283).jpg_gaussian_blur.jpg_vflip.jpg,jute,0
+datasets\crop\maize\21bcd072-87a4-4a25-b6fe-3d6cb261b879___R.S_HL 8012 copy 2.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (512).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3052.jpg,rice,2
+datasets\crop\wheat\leaf_blight_454.png,wheat,4
+datasets\crop\maize\15e8fdce-816e-4a57-ae54-10ba5638fb0a___R.S_HL 0618 copy.jpg,maize,1
+datasets\crop\rice\aug_0_8486.jpg,rice,2
+datasets\crop\rice\aug_0_2107.jpg,rice,2
+datasets\crop\sugarcane\smut (1109).jpg,sugarcane,3
+datasets\crop\wheat\healthy_510.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1506).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (130).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (681).jpg,sugarcane,3
+datasets\crop\maize\3dc975e5-3570-4dbd-b163-a6f2947fc35f___RS_GLSp 4376_270deg.JPG,maize,1
+datasets\crop\wheat\septoria_328.png,wheat,4
+datasets\crop\jute\Healthy (16).jpg,jute,0
+datasets\crop\rice\Brown_spot (42).jpg,rice,2
+datasets\crop\maize\d80bf184-8e5b-41db-a7a0-0784964e0fd2___RS_GLSp 4630.JPG,maize,1
+datasets\crop\maize\a47710cd-fdee-4562-8e91-1d7f405ca44f___RS_GLSp 4409_90deg.JPG,maize,1
+datasets\crop\sugarcane\smut (1677).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1767).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5185.jpg,rice,2
+datasets\crop\rice\aug_0_8887.jpg,rice,2
+datasets\crop\maize\b8bffa6b-fda9-491f-a757-56b51caf5157___R.S_HL 8135 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_4629.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (185).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (310).jpg,jute,0
+datasets\crop\rice\aug_0_9349.jpg,rice,2
+datasets\crop\wheat\healthy_994.png,wheat,4
+datasets\crop\jute\Healthy (54).jpg,jute,0
+datasets\crop\maize\3530ef6f-503f-4ccc-8122-9b1b84ae01b8___R.S_HL 8178 copy 3.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (180).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (656).jpg,sugarcane,3
+datasets\crop\maize\837474e2-d11d-44b7-b39b-0a21442b1e04___RS_GLSp 4455_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\healthy_694.png,wheat,4
+datasets\crop\maize\16123a33-12e5-414e-9ae0-695b86e6cb3a___R.S_HL 8136 copy.jpg,maize,1
+datasets\crop\rice\aug_0_3146.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1739).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2301.jpg,rice,2
+datasets\crop\rice\IMG_20231006_164156.jpg,rice,2
+datasets\crop\wheat\healthy_252.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1228).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (684).jpg,sugarcane,3
+datasets\crop\maize\13d4d655-79ad-4c3e-be5c-b8e4c33f1f34___RS_GLSp 9291.JPG,maize,1
+datasets\crop\maize\a17a47b5-a52e-4708-ac79-f435652966d6___RS_GLSp 4478_90deg.JPG,maize,1
+datasets\crop\wheat\septoria_31.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1122).jpg,sugarcane,3
+datasets\crop\wheat\healthy_463.png,wheat,4
+datasets\crop\rice\aug_0_2297.jpg,rice,2
+datasets\crop\maize\aabcc73c-187b-4fed-b318-3ad529e6ee15___R.S_HL 8244 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (674).jpg,sugarcane,3
+datasets\crop\rice\aug_0_614.jpg,rice,2
+datasets\crop\maize\09282d61-1bed-4af6-8813-88328f2bd312___R.S_HL 8016 copy.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1220).jpg,sugarcane,3
+datasets\crop\maize\c6df65ae-6f54-4962-a7f3-cc21fd3e5b4d___RS_GLSp 3810 copy 2_new30degFlipLR.jpg,maize,1
+datasets\crop\wheat\septoria_484.png,wheat,4
+datasets\crop\wheat\septoria_310.png,wheat,4
+datasets\crop\maize\18aae193-d119-417b-837a-84f33835e788___RS_GLSp 4497_270deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1661).jpg,sugarcane,3
+datasets\crop\maize\206517f4-4d5f-4d16-abab-7e634fc78d0d___RS_GLSp 4412_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_910.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (42).jpg,jute,0
+datasets\crop\sugarcane\smut (1746).jpg,sugarcane,3
+datasets\crop\wheat\septoria_11.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (297).jpg_zoom_in.jpg_hflip.jpg,jute,0
+datasets\crop\rice\IMG_20231014_172954_1.jpg,rice,2
+datasets\crop\maize\5f00e4d0-e48c-4b6b-9602-022fd38cf7e7___RS_GLSp 7331_270deg.JPG,maize,1
+datasets\crop\maize\15e8fdce-816e-4a57-ae54-10ba5638fb0a___R.S_HL 0618 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (345).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (188).jpg,jute,0
+datasets\crop\wheat\healthy_1.png,wheat,4
+datasets\crop\maize\2854f11d-f6ce-4c3e-8a9d-026ae2cc9747___R.S_HL 8179 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_4044.jpg,rice,2
+datasets\crop\wheat\leaf_blight_589.png,wheat,4
+datasets\crop\rice\aug_0_4464.jpg,rice,2
+datasets\crop\rice\Healthy_rice_leaf (104).jpg,rice,2
+datasets\crop\rice\Leaf_scald (77).jpg,rice,2
+datasets\crop\rice\aug_0_3449.jpg,rice,2
+datasets\crop\rice\aug_0_398.jpg,rice,2
+datasets\crop\jute\Healthy (239).jpg,jute,0
+datasets\crop\wheat\leaf_blight_106.png,wheat,4
+datasets\crop\rice\aug_0_6955.jpg,rice,2
+datasets\crop\rice\Brown_spot (202).jpg,rice,2
+datasets\crop\sugarcane\smut (1430).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1739).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_679.png,wheat,4
+datasets\crop\rice\aug_0_9343.jpg,rice,2
+datasets\crop\maize\4dfc51c1-3466-4717-b63c-5bd448a68819___R.S_HL 8220 copy 2.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1322).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5162.jpg,rice,2
+datasets\crop\maize\c43e45f2-4d0b-4a15-a598-d6e64c228981___RS_GLSp 4340_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_3293.jpg,rice,2
+datasets\crop\rice\aug_0_2485.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (477).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1719).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (189).jpg,jute,0
+datasets\crop\wheat\healthy_950.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (244).jpg,sugarcane,3
+datasets\crop\maize\64d75b51-f153-4bb5-84b4-d7fcb8279f25___R.S_HL 8018 copy 2.jpg,maize,1
+datasets\crop\maize\648f5a4f-9fb5-486f-97ac-918c5804ab53___RS_GLSp 4370_270deg.JPG,maize,1
+datasets\crop\rice\Brown_spot (10).jpg,rice,2
+datasets\crop\maize\065fe7da-dcaf-41be-9332-5ec5ebceb94b___RS_GLSp 9337_90deg.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (155).jpg_zoom_in.jpg_vflip.jpg,jute,0
+datasets\crop\wheat\septoria_1074.png,wheat,4
+datasets\crop\rice\aug_0_1826.jpg,rice,2
+datasets\crop\wheat\leaf_blight_695.png,wheat,4
+datasets\crop\rice\IMG_20231018_144202_1.jpg,rice,2
+datasets\crop\wheat\healthy_913.png,wheat,4
+datasets\crop\rice\aug_0_5996.jpg,rice,2
+datasets\crop\wheat\leaf_blight_420.png,wheat,4
+datasets\crop\rice\aug_0_7892.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (9).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1947).jpg,sugarcane,3
+datasets\crop\wheat\healthy_754.png,wheat,4
+datasets\crop\rice\aug_0_3930.jpg,rice,2
+datasets\crop\rice\aug_0_6410.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (5).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1664).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3214.jpg,rice,2
+datasets\crop\maize\11dcda6d-bfdf-457d-8fad-ad169be1501e___R.S_HL 8199 copy.jpg,maize,1
+datasets\crop\jute\Healthy (47).jpg,jute,0
+datasets\crop\rice\aug_0_2435.jpg,rice,2
+datasets\crop\maize\f60dfedb-02f5-4c39-b66e-9c29a58d0ae4___RS_GLSp 4417 copy_new30degFlipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (11).jpg,jute,0
+datasets\crop\maize\0630fcdc-33c1-478b-882f-07da48cf8002___R.S_HL 8026 copy.jpg,maize,1
+datasets\crop\wheat\septoria_14.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1393).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (165).jpg,jute,0
+datasets\crop\rice\Brown_spot (73).jpg,rice,2
+datasets\crop\wheat\leaf_blight_596.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (176).jpg_gaussian_blur.jpg_hvflip.jpg,jute,0
+datasets\crop\wheat\septoria_1139.png,wheat,4
+datasets\crop\wheat\septoria_270.png,wheat,4
+datasets\crop\maize\9103b8e5-919c-4d08-a282-25176874769c___RS_GLSp 4653.JPG,maize,1
+datasets\crop\maize\e5d4ffee-90c7-4a04-8fa8-61e496dfefc3___RS_GLSp 4367.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1165).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4626.jpg,rice,2
+datasets\crop\maize\dba56e1c-72a6-4285-b7de-b23471e1f8a5___R.S_HL 8221 copy 4.jpg,maize,1
+datasets\crop\rice\aug_0_8414.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (302).jpg,jute,0
+datasets\crop\wheat\leaf_blight_216.png,wheat,4
+datasets\crop\rice\aug_0_9655.jpg,rice,2
+datasets\crop\maize\f7044e72-6f61-45ce-9636-43f653381797___RS_GLSp 4637 copy_90deg.jpg,maize,1
+datasets\crop\rice\aug_0_2415.jpg,rice,2
+datasets\crop\wheat\healthy_111.png,wheat,4
+datasets\crop\sugarcane\smut (1311).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (124).jpg_shear.jpg_anticlockwise.jpg,jute,0
+datasets\crop\jute\Healthy (43).jpg,jute,0
+datasets\crop\rice\aug_0_4198.jpg,rice,2
+datasets\crop\rice\IMG_20231014_173530.jpg,rice,2
+datasets\crop\rice\aug_0_5369.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (60).jpg,jute,0
+datasets\crop\maize\3fefc48b-6431-4c5c-acc7-19217866da5b___RS_GLSp 9292_90deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1008).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1546).jpg,sugarcane,3
+datasets\crop\maize\cd3cda5b-be94-430f-b8be-066b1b544cc7___R.S_HL 8294 copy 2.jpg,maize,1
+datasets\crop\wheat\leaf_blight_625.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1586).jpg,sugarcane,3
+datasets\crop\maize\d1f96a7c-c108-45a4-82f6-ffe84b0d081f___RS_GLSp 9304.JPG,maize,1
+datasets\crop\maize\25c29dbe-f9fd-4e65-a47f-501fd5d7ba86___R.S_HL 8116 copy 3.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1612).jpg,sugarcane,3
+datasets\crop\maize\c517891d-1411-4f7a-8d34-286ff2a7571f___RS_GLSp 4404.JPG,maize,1
+datasets\crop\rice\aug_0_4790.jpg,rice,2
+datasets\crop\maize\f741de14-0e76-4922-8c59-3281d55f019a___R.S_HL 5491 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_5881.jpg,rice,2
+datasets\crop\maize\db9acaef-81ac-43d5-9cc2-74ca5182726a___R.S_HL 8318 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1208).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1931).jpg,sugarcane,3
+datasets\crop\wheat\septoria_108.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1536).jpg,sugarcane,3
+datasets\crop\maize\254d1f23-8a22-4f21-9d5e-0c66733f102f___R.S_HL 8083 copy.jpg,maize,1
+datasets\crop\rice\aug_0_7615.jpg,rice,2
+datasets\crop\rice\aug_0_5771.jpg,rice,2
+datasets\crop\maize\801ec1d8-e4e4-4682-85ff-fddfeaeae8c6___R.S_HL 0603 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_8670.jpg,rice,2
+datasets\crop\jute\Healthy (79).jpg_perspective.jpg_vflip.jpg,jute,0
+datasets\crop\maize\5ee644af-b8a1-43b3-8a61-6446260556b2___R.S_HL 7906 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\098a17fd-0351-4f0f-a4a8-6f2a638b4afb___R.S_HL 7897 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (350).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5237.jpg,rice,2
+datasets\crop\rice\aug_0_5118.jpg,rice,2
+datasets\crop\maize\bf3bdd27-ed83-4347-8ca0-4e7cf8530f80___R.S_HL 8333 copy.jpg,maize,1
+datasets\crop\rice\aug_0_3643.jpg,rice,2
+datasets\crop\rice\aug_0_1778.jpg,rice,2
+datasets\crop\rice\aug_0_6056.jpg,rice,2
+datasets\crop\rice\aug_0_5430.jpg,rice,2
+datasets\crop\sugarcane\smut (1257).jpg,sugarcane,3
+datasets\crop\maize\5961441a-a52d-4648-a08b-4965caf11c20___R.S_HL 8328 copy.jpg,maize,1
+datasets\crop\rice\aug_0_1571.jpg,rice,2
+datasets\crop\maize\d309322f-f78c-4ccf-a1cd-8e4e82ba44b5___R.S_HL 5555 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (550).jpg,sugarcane,3
+datasets\crop\jute\Healthy (44).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1326).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1930.jpg,rice,2
+datasets\crop\maize\659f419d-10c3-42db-9b3a-45565709354c___RS_GLSp 4658.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (699).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1389).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2745.jpg,rice,2
+datasets\crop\rice\aug_0_2651.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (490).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1495).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9233.jpg,rice,2
+datasets\crop\sugarcane\smut (155).jpg,sugarcane,3
+datasets\crop\maize\85f2fc5b-e087-4614-9e22-1c264bcc6584___R.S_HL 7981 copy 2.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (116).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (12).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1761).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9431.jpg,rice,2
+datasets\crop\rice\aug_0_7011.jpg,rice,2
+datasets\crop\maize\5786dc07-0a0f-460b-896b-2bb4a240679e___RS_GLSp 7282_270deg.JPG,maize,1
+datasets\crop\rice\IMG_20231014_172528.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (95).jpg,jute,0
+datasets\crop\wheat\septoria_1104.png,wheat,4
+datasets\crop\rice\aug_0_9657.jpg,rice,2
+datasets\crop\rice\Healthy_rice_leaf (79).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1390).jpg,sugarcane,3
+datasets\crop\jute\Healthy (225).jpg_shear.jpg_clockwise.jpg,jute,0
+datasets\crop\maize\84d7e6fa-a943-4513-97d7-f0e7a0480db2___R.S_HL 0631 copy.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1256).jpg,sugarcane,3
+datasets\crop\jute\Healthy (246).jpg,jute,0
+datasets\crop\wheat\healthy_18.png,wheat,4
+datasets\crop\maize\fbcc9f67-8f83-4262-b7a6-26bf59d5fefb___RS_GLSp 4424.JPG,maize,1
+datasets\crop\rice\aug_0_7702.jpg,rice,2
+datasets\crop\sugarcane\smut (1125).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_575.png,wheat,4
+datasets\crop\wheat\leaf_blight_269.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (343).jpg,sugarcane,3
+datasets\crop\wheat\healthy_259.png,wheat,4
+datasets\crop\wheat\healthy_378.png,wheat,4
+datasets\crop\rice\Healthy_rice_leaf (50).jpg,rice,2
+datasets\crop\wheat\septoria_1076.png,wheat,4
+datasets\crop\maize\cb07e000-acb9-44cc-abda-a4549ebe6037___RS_GLSp 4417_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\Leaf_scald (79).jpg,rice,2
+datasets\crop\maize\7f467853-2961-4e1f-ae5a-e4819e418c77___R.S_HL 7899 copy.jpg,maize,1
+datasets\crop\rice\aug_0_5223.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1597).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7385.jpg,rice,2
+datasets\crop\wheat\healthy_381.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1508).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_316.png,wheat,4
+datasets\crop\maize\6b7159c6-3c22-4f68-ac74-4cf4ff12f8e5___RS_GLSp 4381_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\Brown_spot (14).jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (90).jpg_gaussian_blur.jpg_hflip.jpg,jute,0
+datasets\crop\rice\aug_0_9605.jpg,rice,2
+datasets\crop\maize\ae2d73a4-c6e2-4b85-aaa7-3027e2a2c6a9___R.S_HL 5564 copy.jpg,maize,1
+datasets\crop\maize\0a403456-5c5e-4aad-aa89-a118175c6ddd___RS_GLSp 4501_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\healthy_542.png,wheat,4
+datasets\crop\jute\Healthy (258).jpg,jute,0
+datasets\crop\maize\ad678aed-6e1c-40fd-8fef-41a44389f8fd___R.S_HL 0638 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1102).jpg,sugarcane,3
+datasets\crop\maize\13d4d655-79ad-4c3e-be5c-b8e4c33f1f34___RS_GLSp 9291_270deg.JPG,maize,1
+datasets\crop\rice\Brown_spot (160).jpg,rice,2
+datasets\crop\sugarcane\smut (1389).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1327).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2176.jpg,rice,2
+datasets\crop\rice\Leaf_scald (1).jpg,rice,2
+datasets\crop\wheat\healthy_350.png,wheat,4
+datasets\crop\rice\aug_0_3136.jpg,rice,2
+datasets\crop\rice\aug_0_2426.jpg,rice,2
+datasets\crop\maize\61cbb621-c692-408b-810b-dd09d7d7e1bf___R.S_HL 8330 copy 3.jpg,maize,1
+datasets\crop\sugarcane\smut (1755).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1639.jpg,rice,2
+datasets\crop\wheat\leaf_blight_117.png,wheat,4
+datasets\crop\maize\dcfbea5d-0fe7-460b-bd16-3878cef2da71___RS_GLSp 4482_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (613).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_173626.jpg,rice,2
+datasets\crop\sugarcane\smut (105).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1236).jpg,sugarcane,3
+datasets\crop\maize\8d386446-45f5-4a92-b54b-59cbe0e08a3e___RS_GLSp 9329.JPG,maize,1
+datasets\crop\rice\aug_0_8904.jpg,rice,2
+datasets\crop\rice\aug_0_1722.jpg,rice,2
+datasets\crop\maize\e42857cd-7a60-4b42-9bbb-28d3154fe7f1___R.S_HL 8138 copy.jpg,maize,1
+datasets\crop\wheat\healthy_973.png,wheat,4
+datasets\crop\wheat\leaf_blight_230.png,wheat,4
+datasets\crop\jute\Healthy (166).jpg_bright_dec.jpg_hflip.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (16).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1929).jpg,sugarcane,3
+datasets\crop\wheat\healthy_91.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (186).jpg,sugarcane,3
+datasets\crop\maize\4511c343-1fb9-450f-9991-7fc433034f7a___R.S_HL 7996 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_5598.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1119).jpg,sugarcane,3
+datasets\crop\maize\241fe005-f805-4e76-bf80-e7a84aa0b9a8___RS_GLSp 9336.JPG,maize,1
+datasets\crop\rice\aug_0_609.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1444).jpg,sugarcane,3
+datasets\crop\maize\639ec33d-bc8e-469b-8968-71f0ec060d18___RS_GLSp 4320_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_472.jpg,rice,2
+datasets\crop\maize\161c4466-80c0-49b0-8d4d-b583c4c961b6___R.S_HL 0646 copy 5_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_8842.jpg,rice,2
+datasets\crop\sugarcane\smut (1215).jpg,sugarcane,3
+datasets\crop\wheat\healthy_67.png,wheat,4
+datasets\crop\rice\IMG_20231014_173227_1.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1321).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6103.jpg,rice,2
+datasets\crop\rice\aug_0_9390.jpg,rice,2
+datasets\crop\jute\Healthy (4).jpg_zoom_out.jpg_hflip.jpg,jute,0
+datasets\crop\maize\dcf1eb1d-f35f-4dfe-9f07-028ddf3abbc3___R.S_HL 8293 copy 2.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (65).jpg,jute,0
+datasets\crop\maize\6d5fa9cd-63d6-4b4d-a932-9df6cd8b6524___RS_GLSp 4325_90deg.JPG,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (139).jpg_shear.jpg_hvflip.jpg,jute,0
+datasets\crop\maize\b0d24620-42b3-4ad9-88c8-400f5652ab44___R.S_HL 8074 copy_flipLR.jpg,maize,1
+datasets\crop\wheat\leaf_blight_39.png,wheat,4
+datasets\crop\wheat\healthy_166.png,wheat,4
+datasets\crop\maize\12bab18c-050a-4f66-b15d-49a8e19a8d06___R.S_HL 0616.JPG,maize,1
+datasets\crop\rice\aug_0_3242.jpg,rice,2
+datasets\crop\rice\aug_0_2980.jpg,rice,2
+datasets\crop\sugarcane\smut (1435).jpg,sugarcane,3
+datasets\crop\maize\4f3406d0-c000-40ea-91e2-0e41d69f668b___RS_GLSp 4458_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_6425.jpg,rice,2
+datasets\crop\maize\13d4d655-79ad-4c3e-be5c-b8e4c33f1f34___RS_GLSp 9291_90deg.JPG,maize,1
+datasets\crop\maize\b236dd22-5384-47ab-992e-b82369beb417___R.S_HL 0624 copy.jpg,maize,1
+datasets\crop\wheat\leaf_blight_496.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1047).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (157).jpg,sugarcane,3
+datasets\crop\jute\Healthy (217).jpg,jute,0
+datasets\crop\rice\IMG_20231018_143711 - Copy.jpg,rice,2
+datasets\crop\rice\aug_0_2257.jpg,rice,2
+datasets\crop\rice\IMG_20231014_171122.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (262).jpg_zoom_out.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1187).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1865).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (213).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1247).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1473).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3012.jpg,rice,2
+datasets\crop\rice\aug_0_3909.jpg,rice,2
+datasets\crop\jute\Healthy (55).jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1259).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (426).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (5).jpg_shear.jpg_clockwise.jpg,jute,0
+datasets\crop\wheat\healthy_829.png,wheat,4
+datasets\crop\wheat\healthy_865.png,wheat,4
+datasets\crop\rice\IMG_20231014_171507.jpg,rice,2
+datasets\crop\maize\6c602efb-367c-4f64-bd31-35bbf6b5e9a7___R.S_HL 8284 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_4859.jpg,rice,2
+datasets\crop\maize\11c1e3ce-73d1-4338-8939-473087e9dcbb___R.S_HL 0604.JPG,maize,1
+datasets\crop\maize\a95a00bc-f6af-4006-beda-81f8629cf106___RS_GLSp 9308.JPG,maize,1
+datasets\crop\maize\44927b10-a45a-4c36-becb-2d410f06d77e___R.S_HL 7967 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\smut (1064).jpg,sugarcane,3
+datasets\crop\rice\Brown_spot (120).jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (116).jpg,jute,0
+datasets\crop\maize\f435553d-4d3b-48a8-b13e-7639d330a001___RS_GLSp 4447_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (660).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1261).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9989.jpg,rice,2
+datasets\crop\jute\Healthy (245).jpg_shear.jpg_hvflip.jpg,jute,0
+datasets\crop\rice\aug_0_8906.jpg,rice,2
+datasets\crop\maize\ea90bcc4-599d-466d-9d37-bb43079cb1e6___R.S_HL 8289 copy.jpg,maize,1
+datasets\crop\rice\aug_0_814.jpg,rice,2
+datasets\crop\maize\6afc378d-e62e-4bf5-9f99-3efd664cd377___R.S_HL 8270 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1341).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5100.jpg,rice,2
+datasets\crop\rice\aug_0_495.jpg,rice,2
+datasets\crop\maize\dda330f5-b5af-4cb0-9df3-83186cc879cc___R.S_HL 8205 copy 3.jpg,maize,1
+datasets\crop\wheat\healthy_957.png,wheat,4
+datasets\crop\rice\Healthy_rice_leaf (58).jpg,rice,2
+datasets\crop\rice\aug_0_3042.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (313).jpg_gaussian_blur.jpg_vflip.jpg,jute,0
+datasets\crop\maize\ed054cc0-58f1-4ca0-a369-2c04ffba43b0___RS_GLSp 4657_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\leaf_blight_731.png,wheat,4
+datasets\crop\wheat\septoria_319.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1031).jpg,sugarcane,3
+datasets\crop\wheat\septoria_111.png,wheat,4
+datasets\crop\rice\aug_0_8680.jpg,rice,2
+datasets\crop\rice\aug_0_9476.jpg,rice,2
+datasets\crop\maize\201141a7-69a3-40b2-90fd-da538cf10ffa___R.S_HL 7908 copy.jpg,maize,1
+datasets\crop\rice\aug_0_9088.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (29).jpg,jute,0
+datasets\crop\rice\aug_0_4360.jpg,rice,2
+datasets\crop\maize\af647b0e-db3a-459e-915c-4e522cb46c6c___R.S_HL 8101 copy _flipLR.jpg,maize,1
+datasets\crop\maize\c47c1b5d-7527-4f1c-a3b0-8d737c5ccbaf___RS_GLSp 4457.JPG,maize,1
+datasets\crop\rice\aug_0_4634.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (294).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_310.png,wheat,4
+datasets\crop\maize\07f54257-0ec8-4bce-991f-90d46646d4f8___RS_GLSp 4378 copy 2_new30degFlipLR.jpg,maize,1
+datasets\crop\rice\aug_0_9179.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (317).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4895.jpg,rice,2
+datasets\crop\sugarcane\smut (1587).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (153).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (178).jpg,jute,0
+datasets\crop\rice\aug_0_2532.jpg,rice,2
+datasets\crop\wheat\leaf_blight_471.png,wheat,4
+datasets\crop\sugarcane\smut (1214).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9854.jpg,rice,2
+datasets\crop\rice\aug_0_4267.jpg,rice,2
+datasets\crop\sugarcane\smut (1476).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_567.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1381).jpg,sugarcane,3
+datasets\crop\maize\eda51a46-b237-47c4-b19f-97463e2c303a___RS_GLSp 4618_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_1519.jpg,rice,2
+datasets\crop\wheat\healthy_772.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1336).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (644).jpg,sugarcane,3
+datasets\crop\maize\5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\a9eb57c6-db27-467a-aff2-253c58e26722___RS_GLSp 4446 copy_270deg.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (35).jpg,jute,0
+datasets\crop\rice\aug_0_4705.jpg,rice,2
+datasets\crop\rice\aug_0_5116.jpg,rice,2
+datasets\crop\rice\aug_0_4200.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1938).jpg,sugarcane,3
+datasets\crop\maize\ceac7e26-3dbe-48a1-b111-3b4149cda69d___RS_GLSp 9316_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1468).jpg,sugarcane,3
+datasets\crop\wheat\healthy_765.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (20).jpg,jute,0
+datasets\crop\jute\Healthy (85).jpg_bright_inc.jpg_hvflip.jpg,jute,0
+datasets\crop\wheat\leaf_blight_418.png,wheat,4
+datasets\crop\sugarcane\smut (1750).jpg,sugarcane,3
+datasets\crop\wheat\healthy_171.png,wheat,4
+datasets\crop\wheat\leaf_blight_236.png,wheat,4
+datasets\crop\rice\IMG_20231014_173306.jpg,rice,2
+datasets\crop\wheat\leaf_blight_660.png,wheat,4
+datasets\crop\rice\aug_0_5729.jpg,rice,2
+datasets\crop\rice\aug_0_2715.jpg,rice,2
+datasets\crop\rice\IMG_20231018_144318.jpg,rice,2
+datasets\crop\maize\3eb884a5-e02f-4f39-b406-977e49ce1957___R.S_HL 8209 copy.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1368).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2780.jpg,rice,2
+datasets\crop\maize\34074440-8163-4cbb-9c8b-0bb6408670f7___R.S_HL 8069 copy.jpg,maize,1
+datasets\crop\maize\28ca7e31-0f73-4546-b234-98dcaa581d67___R.S_HL 7920 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (227).jpg_zoom_in.jpg_vflip.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (116).jpg_perspective.jpg_clockwise.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (340).jpg_bright_inc.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1044).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1072).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1416).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1412).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (276).jpg,jute,0
+datasets\crop\rice\aug_0_1308.jpg,rice,2
+datasets\crop\maize\a593a2fb-75d0-434e-ad4e-b9272d7b4652___RS_GLSp 4585.JPG,maize,1
+datasets\crop\rice\aug_0_6855.jpg,rice,2
+datasets\crop\rice\aug_0_9101.jpg,rice,2
+datasets\crop\rice\aug_0_9971.jpg,rice,2
+datasets\crop\wheat\septoria_1020.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (119).jpg_shear.jpg_anticlockwise.jpg,jute,0
+datasets\crop\maize\5face5cd-e150-42f5-8ae6-eef79c43b05b___R.S_HL 8010 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\7118cb62-d96a-4ae0-8c85-634aa6bc6f62___RS_GLSp 4354_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\a0bac4e0-eb5f-4165-9f45-1d3fc0ac32c9___R.S_HL 5501 copy 2_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (143).jpg_bright_inc.jpg_anticlockwise.jpg,jute,0
+datasets\crop\maize\59d8a372-0690-4767-9795-ea96ac386393___R.S_HL 0596 copy 2.jpg,maize,1
+datasets\crop\rice\IMG_20231014_172323.jpg,rice,2
+datasets\crop\jute\Healthy (6).jpg,jute,0
+datasets\crop\maize\97bc3c85-3c34-47c1-9bb8-5eccc54d0427___RS_GLSp 9267_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_1107.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (297).jpg,jute,0
+datasets\crop\rice\aug_0_8528.jpg,rice,2
+datasets\crop\rice\aug_0_3888.jpg,rice,2
+datasets\crop\rice\aug_0_8251.jpg,rice,2
+datasets\crop\rice\aug_0_9511.jpg,rice,2
+datasets\crop\maize\0305800e-de91-4742-b923-f9a1c0799392___R.S_HL 8116 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (79).jpg,jute,0
+datasets\crop\sugarcane\smut (1769).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7282.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1292).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_646.png,wheat,4
+datasets\crop\maize\5fff81b5-afe1-4743-a94b-4dce92ddc524___R.S_HL 0651 copy 4.jpg,maize,1
+datasets\crop\maize\e3d043b6-c62b-4e04-8878-fe26f20025e9___RS_GLSp 9360_90deg.JPG,maize,1
+datasets\crop\maize\eba7c3d9-7e8e-4cfc-9a84-7eb39671d480___RS_GLSp 9318_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_6582.jpg,rice,2
+datasets\crop\maize\b5f20d48-e6ab-401c-81b4-58e5147576b3___R.S_HL 8141 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\13e5c719-6d18-4729-a090-7daf2014188a___R.S_HL 8152 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\7b0308b0-8997-4318-b3e0-26c658f8dadf___RS_GLSp 7300_90deg.JPG,maize,1
+datasets\crop\maize\4be4a686-ab64-43d7-9d7c-0939e389aac9___RS_GLSp 9338.JPG,maize,1
+datasets\crop\maize\3ed3e07e-1932-4c33-9613-d31af970986c___R.S_HL 7973 copy.jpg,maize,1
+datasets\crop\maize\a07d9b98-d0e6-42be-8a97-b3b9470b384c___R.S_HL 7921 copy 3_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_5752.jpg,rice,2
+datasets\crop\rice\aug_0_6112.jpg,rice,2
+datasets\crop\jute\Healthy (200).jpg_shear.jpg_hvflip.jpg,jute,0
+datasets\crop\rice\aug_0_2168.jpg,rice,2
+datasets\crop\wheat\leaf_blight_661.png,wheat,4
+datasets\crop\jute\Healthy (150).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1109).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2621.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (631).jpg,sugarcane,3
+datasets\crop\rice\Brown_spot (92).jpg,rice,2
+datasets\crop\rice\Leaf_scald (91).jpg,rice,2
+datasets\crop\wheat\healthy_569.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1301).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (146).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1655).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1793.jpg,rice,2
+datasets\crop\rice\aug_0_1280.jpg,rice,2
+datasets\crop\sugarcane\smut (1451).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_173214.jpg,rice,2
+datasets\crop\rice\aug_0_6115.jpg,rice,2
+datasets\crop\maize\24ff01e1-c073-45df-90d7-da86e8fcece7___R.S_HL 8262 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\ae81a3e8-f4c3-4929-a915-6f09b6961b11___R.S_HL 8107 copy.jpg,maize,1
+datasets\crop\maize\ef21bc27-7f69-4eba-87e2-6b1f348cc846___R.S_HL 8279 copy.jpg,maize,1
+datasets\crop\jute\Healthy (3).jpg_original.jpg_anticlockwise.jpg,jute,0
+datasets\crop\jute\Cescospora_leaf_spot  (205).jpg,jute,0
+datasets\crop\jute\Cescospora_leaf_spot  (246).jpg_perspective.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1767).jpg,sugarcane,3
+datasets\crop\jute\Healthy (4).jpg_original.jpg_anticlockwise.jpg,jute,0
+datasets\crop\jute\Healthy (183).jpg_perspective.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1618).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (591).jpg,sugarcane,3
+datasets\crop\wheat\septoria_0.png,wheat,4
+datasets\crop\maize\7a4c407a-5c68-4738-b084-f859cc0b980c___RS_GLSp 4586.JPG,maize,1
+datasets\crop\maize\978f82a3-d8c1-4ad8-a212-cc8b7b3306b8___RS_GLSp 7343 copy_270deg.jpg,maize,1
+datasets\crop\wheat\healthy_878.png,wheat,4
+datasets\crop\rice\aug_0_4554.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1116).jpg,sugarcane,3
+datasets\crop\maize\89edb9c3-2ae7-4a95-937f-74778fc98df0___RS_GLSp 7287_90deg.JPG,maize,1
+datasets\crop\maize\ddf11a05-a096-4b9b-a3f9-f12714edcb50___R.S_HL 8333 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\2e3c83d4-fbbc-4250-a3e6-96bff8d8164a___RS_GLSp 4634_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_7326.jpg,rice,2
+datasets\crop\wheat\healthy_97.png,wheat,4
+datasets\crop\rice\aug_0_9151.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1365).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (48).jpg_perspective.jpg_vflip.jpg,jute,0
+datasets\crop\jute\Healthy (1).jpg,jute,0
+datasets\crop\maize\573ad2a6-906a-4d32-af81-0026fc57258f___RS_GLSp 4613.JPG,maize,1
+datasets\crop\wheat\healthy_663.png,wheat,4
+datasets\crop\rice\aug_0_2961.jpg,rice,2
+datasets\crop\sugarcane\smut (1112).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (357).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1574).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6194.jpg,rice,2
+datasets\crop\maize\fa0d690b-b3ae-4ddd-b09d-ca8608233a1a___RS_GLSp 4629_270deg.JPG,maize,1
+datasets\crop\maize\c517891d-1411-4f7a-8d34-286ff2a7571f___RS_GLSp 4404_270deg.JPG,maize,1
+datasets\crop\wheat\healthy_621.png,wheat,4
+datasets\crop\wheat\leaf_blight_252.png,wheat,4
+datasets\crop\rice\aug_0_7580.jpg,rice,2
+datasets\crop\maize\81b0d8bd-b21a-448a-8aca-a1bf971bf014___R.S_HL 8029 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\1d81ce56-55bc-4037-8d1f-6d1ea0f94698___R.S_HL 5530 copy 2.jpg,maize,1
+datasets\crop\maize\de4b44f2-76c6-40bf-b48a-d69d458bb68d___RS_GLSp 4638 copy 2.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (17).jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1059).jpg,sugarcane,3
+datasets\crop\maize\0997fbc9-8297-4a33-ab73-6f8096f5bc04___R.S_HL 8186 copy 3_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_3296.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1643).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_173506.jpg,rice,2
+datasets\crop\rice\aug_0_570.jpg,rice,2
+datasets\crop\maize\adde8d22-15d9-42a5-a75d-6befa661ff4d___R.S_HL 8012 copy_flipLR.jpg,maize,1
+datasets\crop\wheat\healthy_85.png,wheat,4
+datasets\crop\wheat\septoria_1093.png,wheat,4
+datasets\crop\rice\Leaf_scald (28).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1398).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1034).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1224).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_213.png,wheat,4
+datasets\crop\wheat\healthy_975.png,wheat,4
+datasets\crop\maize\482efe83-cbc6-474d-87c5-e28a3a528541___R.S_HL 8273 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_3950.jpg,rice,2
+datasets\crop\wheat\healthy_395.png,wheat,4
+datasets\crop\maize\a0c8342a-b9ca-4604-a2b0-7000bf7cdad2___RS_GLSp 4343_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\septoria_304.png,wheat,4
+datasets\crop\rice\aug_0_7640.jpg,rice,2
+datasets\crop\rice\aug_0_6884.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (117).jpg,jute,0
+datasets\crop\sugarcane\smut (1299).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1039).jpg,sugarcane,3
+datasets\crop\maize\346e5b39-b83e-4b5f-a02b-bc01fc230842___RS_GLSp 4311_270deg.JPG,maize,1
+datasets\crop\maize\ae1f25a2-402d-4ada-822f-43f0967a566a___RS_GLSp 4324_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_7602.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (294).jpg_zoom_out.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1168).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3751.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1941).jpg,sugarcane,3
+datasets\crop\maize\af57ac04-46ad-4655-81f3-4fc4a01d1c1a___R.S_HL 8238 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_4197.jpg,rice,2
+datasets\crop\maize\a5ab43da-2672-4993-b24a-46d0cae88fa6___RS_GLSp 9355_90deg.JPG,maize,1
+datasets\crop\wheat\healthy_911.png,wheat,4
+datasets\crop\rice\aug_0_6956.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (176).jpg,jute,0
+datasets\crop\maize\87b2cf78-1514-454d-b9c9-8b1296002b6a___RS_GLSp 4386_new30degFlipLR.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (4).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (560).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6850.jpg,rice,2
+datasets\crop\wheat\healthy_837.png,wheat,4
+datasets\crop\rice\aug_0_620.jpg,rice,2
+datasets\crop\maize\ba7f5741-75f8-4ac1-9107-ca73e244ac9b___RS_GLSp 9350_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\healthy_687.png,wheat,4
+datasets\crop\rice\aug_0_9826.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1158).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6933.jpg,rice,2
+datasets\crop\rice\aug_0_8363.jpg,rice,2
+datasets\crop\maize\7394c8a3-7c6e-486b-a2b3-bb54d7dfba25___RS_GLSp 4334_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\septoria_188.png,wheat,4
+datasets\crop\rice\aug_0_3228.jpg,rice,2
+datasets\crop\rice\aug_0_1624.jpg,rice,2
+datasets\crop\wheat\healthy_525.png,wheat,4
+datasets\crop\maize\abf68bb5-f883-4423-8e98-953f5f45a1ed___RS_GLSp 4463 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (682).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6232.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (194).jpg,jute,0
+datasets\crop\rice\aug_0_5286.jpg,rice,2
+datasets\crop\maize\c9272300-fc37-4b47-b09f-6a0f4e59f1bf___R.S_HL 7887 copy.jpg,maize,1
+datasets\crop\wheat\healthy_774.png,wheat,4
+datasets\crop\maize\7eeafe66-9b88-473c-a2d6-a72edb99c3fa___RS_GLSp 9364_270deg.JPG,maize,1
+datasets\crop\wheat\healthy_527.png,wheat,4
+datasets\crop\rice\aug_0_5934.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (22).jpg_bright_inc.jpg_vflip.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1375).jpg,sugarcane,3
+datasets\crop\maize\44209d86-9fed-42cd-b5dc-5580166b10ab___RS_GLSp 4684_90deg.JPG,maize,1
+datasets\crop\jute\Healthy (41).jpg,jute,0
+datasets\crop\rice\Leaf_scald (93).jpg,rice,2
+datasets\crop\sugarcane\smut (1232).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (193).jpg,jute,0
+datasets\crop\wheat\leaf_blight_173.png,wheat,4
+datasets\crop\maize\d85d07c3-0a4e-4f50-836e-8c884cd58c75___R.S_HL 8064 copy_flipLR.jpg,maize,1
+datasets\crop\maize\bea16309-36c9-4d03-a8de-747e29cba604___R.S_HL 8187 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_7244.jpg,rice,2
+datasets\crop\maize\3cf0f532-b296-43d4-a280-d4f665913820___R.S_HL 8305 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1878).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6603.jpg,rice,2
+datasets\crop\wheat\leaf_blight_109.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (272).jpg_zoom_out.jpg_clockwise.jpg,jute,0
+datasets\crop\maize\dfe650bb-d16a-47ed-85d2-25abcbd0f152___RS_GLSp 4612.JPG,maize,1
+datasets\crop\rice\aug_0_2617.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (293).jpg,jute,0
+datasets\crop\rice\Brown_spot (4).jpg,rice,2
+datasets\crop\rice\Healthy_rice_leaf (109).jpg,rice,2
+datasets\crop\maize\ba5545b4-4812-42ed-94ee-73fa785156ad___R.S_HL 8227 copy 2.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1118).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1251).jpg,sugarcane,3
+datasets\crop\wheat\septoria_1002.png,wheat,4
+datasets\crop\rice\aug_0_6643.jpg,rice,2
+datasets\crop\wheat\healthy_23.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1284).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1561).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1648.jpg,rice,2
+datasets\crop\maize\13b33853-ad75-40ca-a00f-07281811638a___R.S_HL 8088 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (228).jpg_perspective.jpg_clockwise.jpg,jute,0
+datasets\crop\wheat\septoria_175.png,wheat,4
+datasets\crop\sugarcane\smut (1702).jpg,sugarcane,3
+datasets\crop\rice\aug_0_8863.jpg,rice,2
+datasets\crop\rice\aug_0_7557.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (479).jpg,sugarcane,3
+datasets\crop\maize\90548ed6-1573-4a72-9f60-6188a1fbd2ff___R.S_HL 8150 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_1651.jpg,rice,2
+datasets\crop\rice\IMG_20231014_173118.jpg,rice,2
+datasets\crop\rice\IMG_20231014_172913.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1249).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1018).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4799.jpg,rice,2
+datasets\crop\jute\Healthy (141).jpg_shear.jpg_hflip.jpg,jute,0
+datasets\crop\jute\Healthy (52).jpg_shear.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1166).jpg,sugarcane,3
+datasets\crop\maize\d6f5c14c-3cba-4378-9b58-928a6d679946___R.S_HL 0622 copy 3.jpg,maize,1
+datasets\crop\sugarcane\smut (166).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9435.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1956).jpg,sugarcane,3
+datasets\crop\rice\Leaf_scald (51).jpg,rice,2
+datasets\crop\wheat\septoria_113.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (166).jpg_perspective.jpg_hflip.jpg,jute,0
+datasets\crop\maize\7d6650bc-9627-4e3b-bc7e-d247808e6f08___R.S_HL 7913 copy 2.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1155).jpg,sugarcane,3
+datasets\crop\wheat\healthy_311.png,wheat,4
+datasets\crop\rice\aug_0_5989.jpg,rice,2
+datasets\crop\rice\aug_0_2818.jpg,rice,2
+datasets\crop\rice\aug_0_4599.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (286).jpg,sugarcane,3
+datasets\crop\rice\aug_0_173.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (190).jpg,jute,0
+datasets\crop\maize\8596a96c-faff-424a-9f05-c21f486d63c5___RS_GLSp 4372_90deg.JPG,maize,1
+datasets\crop\rice\IMG_20231014_173228_1.jpg,rice,2
+datasets\crop\rice\aug_0_712.jpg,rice,2
+datasets\crop\sugarcane\smut (1359).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1168).jpg,sugarcane,3
+datasets\crop\rice\aug_0_8651.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (118).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2641.jpg,rice,2
+datasets\crop\rice\aug_0_592.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (301).jpg,jute,0
+datasets\crop\rice\aug_0_9899.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1808).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1149).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9834.jpg,rice,2
+datasets\crop\rice\aug_0_2770.jpg,rice,2
+datasets\crop\rice\aug_0_4920.jpg,rice,2
+datasets\crop\jute\Healthy (247).jpg,jute,0
+datasets\crop\rice\aug_0_457.jpg,rice,2
+datasets\crop\jute\Healthy (175).jpg,jute,0
+datasets\crop\maize\b17b326d-8bb8-4cc7-bff3-183d2cc9a624___RS_GLSp 7280_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1819).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5555.jpg,rice,2
+datasets\crop\wheat\healthy_894.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (239).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (607).jpg,sugarcane,3
+datasets\crop\jute\Healthy (170).jpg_bright_inc.jpg_hflip.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (229).jpg_perspective.jpg_anticlockwise.jpg,jute,0
+datasets\crop\wheat\septoria_136.png,wheat,4
+datasets\crop\maize\de3ae60a-a0f9-45cd-b803-edb41b29a42d___RS_GLSp 7286.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (261).jpg,jute,0
+datasets\crop\rice\aug_0_8825.jpg,rice,2
+datasets\crop\maize\137762d7-fcd5-405c-a4d5-4096321951d0___RS_GLSp 9345.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1954).jpg,sugarcane,3
+datasets\crop\maize\5c4c7615-f758-4dfd-a277-1dc94aa94a95___R.S_HL 8343 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1980).jpg,sugarcane,3
+datasets\crop\maize\5cfe5cf5-bdba-44b5-8295-c5bda6e34ae3___RS_GLSp 9353 copy.jpg,maize,1
+datasets\crop\maize\7f350cf2-c946-4546-a5e0-1ae22389530c___R.S_HL 8146 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1546).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7882.jpg,rice,2
+datasets\crop\maize\d0e16874-80b3-4f2a-8511-15d5e69d33c6___R.S_HL 8056 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (213).jpg_gaussian_blur.jpg_hflip.jpg,jute,0
+datasets\crop\maize\3acb89dc-1f57-4921-a16c-62f53989bc91___R.S_HL 8134 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_2488.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (235).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\smut (1040).jpg,sugarcane,3
+datasets\crop\jute\Healthy (75).jpg_zoom_in.jpg_hflip.jpg,jute,0
+datasets\crop\rice\aug_0_1004.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (222).jpg,jute,0
+datasets\crop\maize\c68b1b16-887b-4647-bb13-70474fd7e5ae___R.S_HL 0633 copy 3_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_1342.jpg,rice,2
+datasets\crop\rice\aug_0_7373.jpg,rice,2
+datasets\crop\rice\IMG_20231014_173151.jpg,rice,2
+datasets\crop\jute\Golden_Mosaic (125).jpg,jute,0
+datasets\crop\wheat\leaf_blight_551.png,wheat,4
+datasets\crop\rice\aug_0_1585.jpg,rice,2
+datasets\crop\rice\aug_0_7891.jpg,rice,2
+datasets\crop\wheat\septoria_208.png,wheat,4
+datasets\crop\rice\aug_0_1586.jpg,rice,2
+datasets\crop\maize\de4b44f2-76c6-40bf-b48a-d69d458bb68d___RS_GLSp 4638 copy 2_270deg.jpg,maize,1
+datasets\crop\wheat\leaf_blight_406.png,wheat,4
+datasets\crop\rice\aug_0_207.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1286).jpg,sugarcane,3
+datasets\crop\maize\9ff013dc-f099-4a5c-a187-65f5864132a6___RS_GLSp 4397.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1476).jpg,sugarcane,3
+datasets\crop\rice\Brown_spot (80).jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1412).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2470.jpg,rice,2
+datasets\crop\maize\f435553d-4d3b-48a8-b13e-7639d330a001___RS_GLSp 4447_270deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1099).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_689.png,wheat,4
+datasets\crop\rice\aug_0_3778.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (665).jpg,sugarcane,3
+datasets\crop\maize\0305800e-de91-4742-b923-f9a1c0799392___R.S_HL 8116 copy.jpg,maize,1
+datasets\crop\maize\fec7d3b4-736b-4d95-92cb-2e8b302f7488___R.S_HL 8306 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (275).jpg_zoom_out.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\aug_0_3828.jpg,rice,2
+datasets\crop\sugarcane\smut (1638).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3952.jpg,rice,2
+datasets\crop\sugarcane\smut (1083).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1181).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (326).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1069).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1273).jpg,sugarcane,3
+datasets\crop\maize\6e2464e9-1034-4ee9-9211-63e57ad09031___RS_GLSp 4661.JPG,maize,1
+datasets\crop\maize\bbde9366-ec3c-4354-815b-5b95b6cdb676___RS_GLSp 4481_270deg.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1123).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3253.jpg,rice,2
+datasets\crop\wheat\leaf_blight_623.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1610).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (33).jpg,jute,0
+datasets\crop\maize\c671c535-9c69-4935-9cc8-0f187b4df44e___R.S_HL 8045 copy 2.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (504).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3762.jpg,rice,2
+datasets\crop\maize\5d69a1f2-cead-4661-8014-63e35e131850___RS_GLSp 4337 copy_90deg.jpg,maize,1
+datasets\crop\sugarcane\smut (1350).jpg,sugarcane,3
+datasets\crop\wheat\healthy_991.png,wheat,4
+datasets\crop\maize\4f01283d-c07f-4c1f-9a94-186536d98196___RS_GLSp 4486_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\f7ece943-7833-4a22-bb40-9644311794fd___RS_GLSp 4635.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1551).jpg,sugarcane,3
+datasets\crop\maize\54ff4537-6187-4a07-b478-7a06d159915c___RS_GLSp 9368_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_4427.jpg,rice,2
+datasets\crop\rice\aug_0_4982.jpg,rice,2
+datasets\crop\jute\Healthy (11).jpg_shear.jpg_clockwise.jpg,jute,0
+datasets\crop\maize\2cc203bd-1fdf-40e1-af08-5ab793586fc4___R.S_HL 7971 copy_flipLR.jpg,maize,1
+datasets\crop\maize\617766d7-75ff-4b18-b37d-ce2b5a7255bd___RS_GLSp 7312_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\9b75245d-d020-4508-a032-f7aa0e8d5589___R.S_HL 7995 copy 2.jpg,maize,1
+datasets\crop\sugarcane\smut (1276).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4740.jpg,rice,2
+datasets\crop\maize\398cdfcf-3bc5-486c-ab4e-8bce2f2bbc23___RS_GLSp 9333_270deg.JPG,maize,1
+datasets\crop\maize\5ac6ef38-097e-4509-9090-1c02cf2c152a___RS_GLSp 4650_270deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (470).jpg,sugarcane,3
+datasets\crop\rice\aug_0_833.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (78).jpg_perspective.jpg_vflip.jpg,jute,0
+datasets\crop\rice\Leaf_scald (114).jpg,rice,2
+datasets\crop\sugarcane\smut (1450).jpg,sugarcane,3
+datasets\crop\wheat\septoria_211.png,wheat,4
+datasets\crop\maize\3f1391a0-85c0-41f2-bd64-7bb9e6e6486e___R.S_HL 0618 copy 2_flipLR.jpg,maize,1
+datasets\crop\jute\Healthy (113).jpg_bright_dec.jpg_clockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1572).jpg,sugarcane,3
+datasets\crop\maize\3bc19f2c-2ab4-4a1c-bd0f-e0a322058b8b___RS_GLSp 4423_270deg.JPG,maize,1
+datasets\crop\wheat\healthy_710.png,wheat,4
+datasets\crop\rice\IMG_20231002_171544.jpg,rice,2
+datasets\crop\sugarcane\smut (1312).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7878.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (202).jpg_zoom_out.jpg_hvflip.jpg,jute,0
+datasets\crop\rice\Leaf_scald (67).jpg,rice,2
+datasets\crop\maize\ae2d73a4-c6e2-4b85-aaa7-3027e2a2c6a9___R.S_HL 5564 copy_flipLR.jpg,maize,1
+datasets\crop\maize\b17b326d-8bb8-4cc7-bff3-183d2cc9a624___RS_GLSp 7280_270deg.JPG,maize,1
+datasets\crop\sugarcane\smut (1122).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1512).jpg,sugarcane,3
+datasets\crop\wheat\healthy_100.png,wheat,4
+datasets\crop\rice\aug_0_7583.jpg,rice,2
+datasets\crop\rice\aug_0_1827.jpg,rice,2
+datasets\crop\rice\aug_0_8334.jpg,rice,2
+datasets\crop\rice\aug_0_5549.jpg,rice,2
+datasets\crop\maize\b62826b2-1547-4c3d-bb4f-4ebc2e166b9c___RS_GLSp 4651 copy.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1454).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_469.png,wheat,4
+datasets\crop\wheat\healthy_125.png,wheat,4
+datasets\crop\wheat\leaf_blight_379.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1615).jpg,sugarcane,3
+datasets\crop\rice\aug_0_8781.jpg,rice,2
+datasets\crop\rice\aug_0_1294.jpg,rice,2
+datasets\crop\wheat\healthy_471.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1245).jpg,sugarcane,3
+datasets\crop\maize\ad47f4e8-308f-4c56-b50b-19e4f7fedd6d___RS_GLSp 4583_270deg.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (55).jpg,jute,0
+datasets\crop\wheat\healthy_479.png,wheat,4
+datasets\crop\jute\Healthy (71).jpg_original.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\Healthy_rice_leaf (8).jpg,rice,2
+datasets\crop\rice\Brown_spot (85).jpg,rice,2
+datasets\crop\rice\aug_0_3301.jpg,rice,2
+datasets\crop\maize\6bb782e3-5856-40e5-9f52-e0f5a0bf51cb___RS_GLSp 4646_270deg.JPG,maize,1
+datasets\crop\maize\454783a2-2485-4021-968c-ee775181f1ba___R.S_HL 5493 copy 2_flipLR.jpg,maize,1
+datasets\crop\wheat\leaf_blight_498.png,wheat,4
+datasets\crop\jute\Healthy (238).jpg,jute,0
+datasets\crop\maize\41273258-e17c-44e1-a12d-bf8582235994___R.S_HL 0650 copy 3.jpg,maize,1
+datasets\crop\maize\db66adfd-cc22-4c44-bf5d-856827ef14b4___R.S_HL 7977 copy.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (285).jpg,jute,0
+datasets\crop\maize\7f69942f-70ce-456b-b8cb-1ce937ea6389___RS_GLSp 4418_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1609).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1905.jpg,rice,2
+datasets\crop\rice\aug_0_9619.jpg,rice,2
+datasets\crop\rice\aug_0_9591.jpg,rice,2
+datasets\crop\rice\aug_0_3999.jpg,rice,2
+datasets\crop\maize\00a20f6f-e8bd-4453-9e25-36ea70feb626___RS_GLSp 4655_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_3595.jpg,rice,2
+datasets\crop\rice\aug_0_9126.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1175).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_99.png,wheat,4
+datasets\crop\wheat\leaf_blight_474.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (172).jpg_gaussian_blur.jpg_vflip.jpg,jute,0
+datasets\crop\rice\aug_0_5722.jpg,rice,2
+datasets\crop\maize\d9b6d600-26a3-4f19-9489-4d8be835782a___RS_GLSp 4425.JPG,maize,1
+datasets\crop\rice\aug_0_467.jpg,rice,2
+datasets\crop\rice\aug_0_4840.jpg,rice,2
+datasets\crop\maize\22e876a7-46e4-4b87-b2ac-0668117fb455___RS_GLSp 4469_90deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1823).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_190.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (218).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_173548.jpg,rice,2
+datasets\crop\jute\Healthy (8).jpg,jute,0
+datasets\crop\rice\aug_0_1012.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1066).jpg,sugarcane,3
+datasets\crop\rice\aug_0_8568.jpg,rice,2
+datasets\crop\maize\9f07734a-54f8-4083-b99f-76f3cf329916___RS_GLSp 4625_90deg.JPG,maize,1
+datasets\crop\maize\fa551b43-43d6-4788-8450-6a78a366b5dc___RS_GLSp 4565_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\15d188d6-bade-4281-931a-82264fdae6a4___RS_GLSp 4450_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\620e70fd-98d9-40c4-b9a9-803080d1d371___R.S_HL 7968 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_5667.jpg,rice,2
+datasets\crop\sugarcane\smut (1615).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9279.jpg,rice,2
+datasets\crop\rice\aug_0_6149.jpg,rice,2
+datasets\crop\rice\aug_0_4468.jpg,rice,2
+datasets\crop\wheat\healthy_466.png,wheat,4
+datasets\crop\maize\fb65bef4-b6c2-49d8-86dd-be1e72bdb43d___R.S_HL 0611 copy_flipLR.jpg,maize,1
+datasets\crop\wheat\healthy_791.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1294).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1881).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (153).jpg_original.jpg_clockwise.jpg,jute,0
+datasets\crop\wheat\leaf_blight_728.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (80).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (229).jpg,jute,0
+datasets\crop\jute\Cescospora_leaf_spot  (216).jpg,jute,0
+datasets\crop\maize\be702c5c-99be-4d1e-a16d-89995cb141dc___RS_GLSp 9293_270deg.JPG,maize,1
+datasets\crop\rice\IMG_20231014_171846.jpg,rice,2
+datasets\crop\rice\aug_0_9686.jpg,rice,2
+datasets\crop\jute\Healthy (50).jpg_bright_inc.jpg_vflip.jpg,jute,0
+datasets\crop\wheat\leaf_blight_667.png,wheat,4
+datasets\crop\maize\c2c77995-0b78-4864-9dc6-2f6cb2183347___R.S_HL 5499 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_7302.jpg,rice,2
+datasets\crop\wheat\leaf_blight_601.png,wheat,4
+datasets\crop\sugarcane\smut (1742).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1307).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_171201.jpg,rice,2
+datasets\crop\maize\52acf240-2625-4b4c-8484-6c93e998b115___RS_GLSp 7337_90deg.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1355).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2906.jpg,rice,2
+datasets\crop\maize\22177231-7c14-423d-a83c-78a63c2dfd9a___RS_GLSp 9286_90deg.JPG,maize,1
+datasets\crop\wheat\healthy_164.png,wheat,4
+datasets\crop\maize\4baea4d9-8343-4550-838f-86dfb7672591___RS_GLSp 4639 copy_90deg.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (72).jpg_zoom_in.jpg_hvflip.jpg,jute,0
+datasets\crop\maize\1c94fdf8-0f7e-4e39-bdae-c542a6c3c755___R.S_HL 8280 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\smut (1191).jpg,sugarcane,3
+datasets\crop\wheat\healthy_876.png,wheat,4
+datasets\crop\rice\Leaf_scald (30).jpg,rice,2
+datasets\crop\rice\aug_0_3363.jpg,rice,2
+datasets\crop\maize\97bc3c85-3c34-47c1-9bb8-5eccc54d0427___RS_GLSp 9267.JPG,maize,1
+datasets\crop\maize\53b73553-110a-4dc1-8320-332c4773b8e9___R.S_HL 7907 copy_flipLR.jpg,maize,1
+datasets\crop\maize\02e6c80d-c86f-44ca-9d4c-4b100f92a839___RS_GLSp 4631_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_700.jpg,rice,2
+datasets\crop\rice\aug_0_8462.jpg,rice,2
+datasets\crop\rice\aug_0_2008.jpg,rice,2
+datasets\crop\maize\6db850c6-2b56-4acf-a283-2cd246c02bfa___RS_GLSp 4474 copy 2_270deg.jpg,maize,1
+datasets\crop\wheat\healthy_811.png,wheat,4
+datasets\crop\maize\94dbcd4e-5fc8-47d6-a944-dc0cc7c6ead5___RS_GLSp 4638 copy_90deg.jpg,maize,1
+datasets\crop\maize\4b7e28c4-2353-40f0-b09e-a7a60167ef75___R.S_HL 7936 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\smut (1482).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1102).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1449).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1146).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1003).jpg,sugarcane,3
+datasets\crop\maize\79aa374c-1687-42d4-bf48-84e8b1beb762___RS_GLSp 4408_90deg.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (113).jpg_original.jpg_vflip.jpg,jute,0
+datasets\crop\rice\aug_0_5471.jpg,rice,2
+datasets\crop\maize\88233463-6195-4ed3-8f4f-8dbc5631c4fd___R.S_HL 7898 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_8750.jpg,rice,2
+datasets\crop\rice\aug_0_1707.jpg,rice,2
+datasets\crop\sugarcane\smut (1272).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3310.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (48).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9819.jpg,rice,2
+datasets\crop\rice\aug_0_8161.jpg,rice,2
+datasets\crop\maize\2950037b-0650-4dfa-8102-26c3f1ff8068___R.S_HL 8314 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1144).jpg,sugarcane,3
+datasets\crop\wheat\healthy_200.png,wheat,4
+datasets\crop\rice\aug_0_886.jpg,rice,2
+datasets\crop\rice\aug_0_5790.jpg,rice,2
+datasets\crop\maize\e02d16a0-9933-4ec4-9904-de703aee599e___R.S_HL 8159 copy 2.jpg,maize,1
+datasets\crop\maize\1831304d-96dd-410b-a246-e267a3f61577___R.S_HL 5524 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (70).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_15.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1537).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1240).jpg,sugarcane,3
+datasets\crop\rice\aug_0_8532.jpg,rice,2
+datasets\crop\jute\Healthy (53).jpg_zoom_in.jpg_hflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1260).jpg,sugarcane,3
+datasets\crop\wheat\septoria_129.png,wheat,4
+datasets\crop\wheat\leaf_blight_566.png,wheat,4
+datasets\crop\maize\0b799242-624f-46fb-acd3-a9352e8b4213___R.S_HL 8216 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_8337.jpg,rice,2
+datasets\crop\rice\IMG_20231014_172242.jpg,rice,2
+datasets\crop\rice\aug_0_6492.jpg,rice,2
+datasets\crop\wheat\leaf_blight_810.png,wheat,4
+datasets\crop\rice\aug_0_8271.jpg,rice,2
+datasets\crop\maize\e760af68-e885-46b4-a823-c4faf290c9d0___RS_GLSp 7299_270deg.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (219).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2635.jpg,rice,2
+datasets\crop\maize\03fc887f-e206-4233-8829-ff7070bb3449___R.S_HL 5519 copy 2.jpg,maize,1
+datasets\crop\jute\Healthy (70).jpg_bright_inc.jpg_vflip.jpg,jute,0
+datasets\crop\jute\Healthy (102).jpg_perspective.jpg_vflip.jpg,jute,0
+datasets\crop\maize\aee8f52c-50c2-4327-8240-b8767ea8692d___RS_GLSp 9339_new30degFlipLR.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (116).jpg_bright_dec.jpg_vflip.jpg,jute,0
+datasets\crop\maize\6fe6882b-fa5b-4e99-a1c8-3d227ceb4b40___R.S_HL 7958 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_5416.jpg,rice,2
+datasets\crop\maize\cfbb5e1c-2812-4467-9748-ee171462c331___RS_GLSp 4371_90deg.JPG,maize,1
+datasets\crop\wheat\septoria_575.png,wheat,4
+datasets\crop\wheat\leaf_blight_724.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (116).jpg,sugarcane,3
+datasets\crop\maize\1dbb4503-2025-4c04-98ac-eb8f49c51d12___R.S_HL 8221 copy.jpg,maize,1
+datasets\crop\rice\aug_0_64.jpg,rice,2
+datasets\crop\wheat\healthy_156.png,wheat,4
+datasets\crop\wheat\septoria_1005.png,wheat,4
+datasets\crop\maize\cf700a80-b413-4b95-ad88-d916bc9ffc93___R.S_HL 7946 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (184).jpg_zoom_in.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1303).jpg,sugarcane,3
+datasets\crop\wheat\healthy_832.png,wheat,4
+datasets\crop\rice\aug_0_1238.jpg,rice,2
+datasets\crop\rice\aug_0_4418.jpg,rice,2
+datasets\crop\rice\Leaf_scald (85).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1386).jpg,sugarcane,3
+datasets\crop\maize\814ab6c3-0b7d-42ab-8058-53cde59f0daf___R.S_HL 8312 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (105).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (46).jpg,jute,0
+datasets\crop\rice\aug_0_782.jpg,rice,2
+datasets\crop\maize\bbde9366-ec3c-4354-815b-5b95b6cdb676___RS_GLSp 4481.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1070).jpg,sugarcane,3
+datasets\crop\maize\de4648fd-1910-4929-a644-af090a8031ab___R.S_HL 8242 copy 2_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (303).jpg_bright_dec.jpg_hvflip.jpg,jute,0
+datasets\crop\maize\f0fedb37-88fb-4631-a69c-573c849ced9c___R.S_HL 7892 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1107).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3604.jpg,rice,2
+datasets\crop\rice\IMG_20231018_144111.jpg,rice,2
+datasets\crop\rice\aug_0_917.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (146).jpg_zoom_in.jpg_hflip.jpg,jute,0
+datasets\crop\maize\16d89a3d-6b80-47f6-b701-7dac2864371f___R.S_HL 8087 copy_flipLR.jpg,maize,1
+datasets\crop\rice\Leaf_scald (25).jpg,rice,2
+datasets\crop\rice\aug_0_3397.jpg,rice,2
+datasets\crop\wheat\septoria_1066.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (167).jpg,jute,0
+datasets\crop\sugarcane\smut (1075).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1569).jpg,sugarcane,3
+datasets\crop\jute\Healthy (117).jpg_perspective.jpg_hflip.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1236).jpg,sugarcane,3
+datasets\crop\maize\270ba8ed-21f5-43cc-b401-7b643ce5f65d___R.S_HL 8090 copy 2.jpg,maize,1
+datasets\crop\maize\0995786c-d397-439a-bfeb-bd897cd431c8___RS_GLSp 9343_90deg.JPG,maize,1
+datasets\crop\maize\671065f1-731f-45fa-9c11-3e0080f79ff3___RS_GLSp 4344.JPG,maize,1
+datasets\crop\wheat\healthy_6.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (251).jpg,jute,0
+datasets\crop\rice\aug_0_1045.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (42).jpg,sugarcane,3
+datasets\crop\maize\16013375-da25-4dec-b531-131bed86f025___R.S_HL 5498 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_8302.jpg,rice,2
+datasets\crop\maize\9103b8e5-919c-4d08-a282-25176874769c___RS_GLSp 4653_new30degFlipLR.JPG,maize,1
+datasets\crop\sugarcane\smut (1182).jpg,sugarcane,3
+datasets\crop\maize\d072dd28-bda5-4666-bffc-2a70f7fbccb3___RS_GLSp 4651_90deg.JPG,maize,1
+datasets\crop\jute\Healthy (180).jpg_zoom_in.jpg_hvflip.jpg,jute,0
+datasets\crop\maize\275ea053-96ab-45d9-9878-3c855ea1a308___RS_GLSp 4496_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\d518aedb-9e6e-4567-bb79-1f019415d61c___R.S_HL 8010 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (164).jpg_bright_inc.jpg_vflip.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (45).jpg,jute,0
+datasets\crop\sugarcane\smut (1655).jpg,sugarcane,3
+datasets\crop\maize\faf9f997-3a4d-4723-bb16-ce26362afd77___R.S_HL 8114 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Healthy (185).jpg_bright_inc.jpg_hflip.jpg,jute,0
+datasets\crop\sugarcane\smut (1671).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1092).jpg,sugarcane,3
+datasets\crop\maize\2aca721c-1600-4f8c-8e79-df33973c671c___RS_GLSp 9348.JPG,maize,1
+datasets\crop\rice\aug_0_5047.jpg,rice,2
+datasets\crop\wheat\septoria_1131.png,wheat,4
+datasets\crop\rice\IMG_20231014_171847.jpg,rice,2
+datasets\crop\jute\Healthy (171).jpg,jute,0
+datasets\crop\maize\f8101df7-db23-4241-9362-a00396806364___RS_GLSp 4336_90deg.JPG,maize,1
+datasets\crop\wheat\healthy_962.png,wheat,4
+datasets\crop\wheat\septoria_1079.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (316).jpg,jute,0
+datasets\crop\rice\aug_0_7108.jpg,rice,2
+datasets\crop\rice\aug_0_9894.jpg,rice,2
+datasets\crop\wheat\leaf_blight_185.png,wheat,4
+datasets\crop\rice\IMG_20231018_143741.jpg,rice,2
+datasets\crop\maize\165473bb-7697-4f40-bf65-c3ca4fb4fd35___R.S_HL 8055 copy.jpg,maize,1
+datasets\crop\wheat\leaf_blight_174.png,wheat,4
+datasets\crop\maize\5dd5c601-a601-45bf-90e9-1335869056cc___R.S_HL 0621 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (588).jpg,sugarcane,3
+datasets\crop\jute\Healthy (23).jpg_original.jpg_hflip.jpg,jute,0
+datasets\crop\maize\29e8bca1-adfb-4f65-ad4d-f412fd3f887a___R.S_HL 7997 copy 2_flipLR.jpg,maize,1
+datasets\crop\wheat\leaf_blight_268.png,wheat,4
+datasets\crop\wheat\healthy_547.png,wheat,4
+datasets\crop\sugarcane\smut (1365).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9649.jpg,rice,2
+datasets\crop\maize\a17a47b5-a52e-4708-ac79-f435652966d6___RS_GLSp 4478_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_6408.jpg,rice,2
+datasets\crop\maize\ff8671f5-09be-49d7-8093-2707c3a32489___RS_GLSp 4620.JPG,maize,1
+datasets\crop\rice\aug_0_3133.jpg,rice,2
+datasets\crop\wheat\healthy_108.png,wheat,4
+datasets\crop\rice\IMG_20231014_172608.jpg,rice,2
+datasets\crop\rice\aug_0_5988.jpg,rice,2
+datasets\crop\rice\aug_0_1169.jpg,rice,2
+datasets\crop\wheat\leaf_blight_139.png,wheat,4
+datasets\crop\rice\aug_0_1353.jpg,rice,2
+datasets\crop\wheat\septoria_610.png,wheat,4
+datasets\crop\rice\Healthy_rice_leaf (88).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (282).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1388).jpg,sugarcane,3
+datasets\crop\rice\aug_0_153.jpg,rice,2
+datasets\crop\maize\bd9db5fe-e2d1-4c56-807d-2e90ea2fb6bf___RS_GLSp 4406.JPG,maize,1
+datasets\crop\rice\aug_0_85.jpg,rice,2
+datasets\crop\maize\afa863a3-deb8-4391-9478-ae877c49ad00___R.S_HL 7982 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_1907.jpg,rice,2
+datasets\crop\rice\aug_0_3319.jpg,rice,2
+datasets\crop\maize\aa264c7c-cdcf-4a82-aafb-65e9f076feea___RS_GLSp 4327.JPG,maize,1
+datasets\crop\maize\a5756fdb-9819-4654-acf8-f430ede8410e___R.S_HL 8193 copy 3_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1387).jpg,sugarcane,3
+datasets\crop\wheat\septoria_133.png,wheat,4
+datasets\crop\rice\aug_0_9394.jpg,rice,2
+datasets\crop\maize\4da561ff-1720-4174-be49-d9680cc1cec3___R.S_HL 8321 copy 2.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1417).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_527.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1022).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3390.jpg,rice,2
+datasets\crop\wheat\leaf_blight_389.png,wheat,4
+datasets\crop\wheat\leaf_blight_331.png,wheat,4
+datasets\crop\sugarcane\smut (1811).jpg,sugarcane,3
+datasets\crop\maize\afa06f0f-ee50-4291-bb66-fe535affef23___R.S_HL 8225 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1924).jpg,sugarcane,3
+datasets\crop\jute\Healthy (232).jpg_original.jpg_vflip.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1018).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7379.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (372).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (373).jpg,sugarcane,3
+datasets\crop\wheat\healthy_564.png,wheat,4
+datasets\crop\jute\Cescospora_leaf_spot  (173).jpg_gaussian_blur.jpg_hvflip.jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1194).jpg,sugarcane,3
+datasets\crop\jute\Healthy (61).jpg_shear.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\aug_0_3169.jpg,rice,2
+datasets\crop\wheat\leaf_blight_240.png,wheat,4
+datasets\crop\maize\59c6e1f0-eef8-4e82-a113-07f5056a5f37___R.S_HL 8030 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_213.jpg,rice,2
+datasets\crop\rice\aug_0_6565.jpg,rice,2
+datasets\crop\rice\aug_0_4630.jpg,rice,2
+datasets\crop\rice\aug_0_8062.jpg,rice,2
+datasets\crop\jute\Healthy (1).jpg_shear.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1264).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (475).jpg,sugarcane,3
+datasets\crop\maize\d9d2f7df-7161-4d20-b0ee-48f8dc8683de___RS_GLSp 9313.JPG,maize,1
+datasets\crop\rice\aug_0_3995.jpg,rice,2
+datasets\crop\wheat\leaf_blight_200.png,wheat,4
+datasets\crop\maize\64150a14-e8fa-4301-a7ba-52ca7d592b4a___R.S_HL 0599 copy 3_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (517).jpg,sugarcane,3
+datasets\crop\rice\aug_0_7955.jpg,rice,2
+datasets\crop\jute\Healthy (91).jpg_bright_dec.jpg_hflip.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (162).jpg_gaussian_blur.jpg_clockwise.jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (295).jpg,jute,0
+datasets\crop\rice\Healthy_rice_leaf (11).jpg,rice,2
+datasets\crop\wheat\leaf_blight_481.png,wheat,4
+datasets\crop\rice\aug_0_681.jpg,rice,2
+datasets\crop\wheat\leaf_blight_171.png,wheat,4
+datasets\crop\maize\ae06c7e3-e283-4359-9d98-2c97a1dd3e83___R.S_HL 8062 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_594.jpg,rice,2
+datasets\crop\maize\e669b168-a25c-4770-9d2b-a89e3e6c421a___RS_GLSp 4463_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_1209.jpg,rice,2
+datasets\crop\wheat\healthy_612.png,wheat,4
+datasets\crop\wheat\leaf_blight_192.png,wheat,4
+datasets\crop\wheat\healthy_63.png,wheat,4
+datasets\crop\maize\dbc02d2a-f3ba-47d8-b79b-744210aa69fc___RS_GLSp 4556_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\Brown_spot (131).jpg,rice,2
+datasets\crop\rice\aug_0_9398.jpg,rice,2
+datasets\crop\wheat\healthy_996.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (133).jpg_zoom_out.jpg_hflip.jpg,jute,0
+datasets\crop\rice\aug_0_297.jpg,rice,2
+datasets\crop\wheat\septoria_393.png,wheat,4
+datasets\crop\rice\IMG_20231014_172606_1.jpg,rice,2
+datasets\crop\maize\0140764c-6157-4995-9ada-9c10b81af3b8___RS_GLSp 4378_new30degFlipLR.JPG,maize,1
+datasets\crop\maize\1b6664a7-03f9-4ced-8dcd-b85a18554aa5___RS_GLSp 7324_new30degFlipLR.JPG,maize,1
+datasets\crop\wheat\leaf_blight_461.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (114).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4518.jpg,rice,2
+datasets\crop\rice\aug_0_3717.jpg,rice,2
+datasets\crop\wheat\healthy_595.png,wheat,4
+datasets\crop\maize\dfadedc1-b741-451c-9871-a8f7ba9db906___R.S_HL 7969 copy 2.jpg,maize,1
+datasets\crop\wheat\healthy_104.png,wheat,4
+datasets\crop\wheat\leaf_blight_548.png,wheat,4
+datasets\crop\jute\Golden_Mosaic (309).jpg,jute,0
+datasets\crop\wheat\leaf_blight_701.png,wheat,4
+datasets\crop\rice\IMG_20231014_172312.jpg,rice,2
+datasets\crop\rice\aug_0_1006.jpg,rice,2
+datasets\crop\maize\2ff35cfb-2145-4844-9755-e977af5f661d___RS_GLSp 4434_270deg.JPG,maize,1
+datasets\crop\maize\461baed2-cdf3-4ce0-9812-65f34484bb35___R.S_HL 8031 copy 3_flipLR.jpg,maize,1
+datasets\crop\jute\Healthy (197).jpg_perspective.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\aug_0_2271.jpg,rice,2
+datasets\crop\maize\185137c7-4f0b-4c82-81af-97a710c89e0b___R.S_HL 7962 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (409).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1704).jpg,sugarcane,3
+datasets\crop\maize\2130487a-e25c-4ac3-ac90-a404f2528f91___R.S_HL 8158 copy 2.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1012).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1646).jpg,sugarcane,3
+datasets\crop\maize\ab5d1489-88e6-467f-b9b2-21b064d60fb0___RS_GLSp 4509.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (692).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1757).jpg,sugarcane,3
+datasets\crop\jute\Healthy (61).jpg,jute,0
+datasets\crop\wheat\leaf_blight_320.png,wheat,4
+datasets\crop\wheat\healthy_608.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (626).jpg,sugarcane,3
+datasets\crop\wheat\leaf_blight_749.png,wheat,4
+datasets\crop\maize\782d68b3-4619-4a4b-865f-7071d2552500___RS_GLSp 4593_90deg.JPG,maize,1
+datasets\crop\rice\IMG_20231006_164405_1.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1310).jpg,sugarcane,3
+datasets\crop\maize\1b875461-1cca-41b8-bc3b-34b5940f33a8___R.S_HL 8036 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_7063.jpg,rice,2
+datasets\crop\rice\aug_0_4741.jpg,rice,2
+datasets\crop\rice\aug_0_2138.jpg,rice,2
+datasets\crop\sugarcane\smut (1648).jpg,sugarcane,3
+datasets\crop\maize\b8fb9a89-c0d5-4b9a-b364-3ca75d007322___R.S_HL 8150 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_1681.jpg,rice,2
+datasets\crop\rice\aug_0_834.jpg,rice,2
+datasets\crop\wheat\leaf_blight_44.png,wheat,4
+datasets\crop\maize\ad47f4e8-308f-4c56-b50b-19e4f7fedd6d___RS_GLSp 4583.JPG,maize,1
+datasets\crop\sugarcane\healthy_leaves (1370).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1369.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1543).jpg,sugarcane,3
+datasets\crop\maize\8254e846-2b6a-47bd-87a0-23a1b435eb20___R.S_HL 0599.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (251).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (1857).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1839).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6051.jpg,rice,2
+datasets\crop\wheat\leaf_blight_308.png,wheat,4
+datasets\crop\rice\aug_0_9069.jpg,rice,2
+datasets\crop\wheat\leaf_blight_830.png,wheat,4
+datasets\crop\maize\18bb5247-d11a-40dd-894a-adbb27a73ed4___R.S_HL 8183 copy.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (78).jpg,jute,0
+datasets\crop\maize\0b5492ee-253d-4a13-ad5a-780cb954b09a___RS_GLSp 4615 copy_90deg.jpg,maize,1
+datasets\crop\rice\aug_0_1293.jpg,rice,2
+datasets\crop\wheat\leaf_blight_808.png,wheat,4
+datasets\crop\rice\aug_0_8430.jpg,rice,2
+datasets\crop\sugarcane\smut (1062).jpg,sugarcane,3
+datasets\crop\maize\6e2464e9-1034-4ee9-9211-63e57ad09031___RS_GLSp 4661_90deg.JPG,maize,1
+datasets\crop\wheat\septoria_542.png,wheat,4
+datasets\crop\rice\aug_0_5332.jpg,rice,2
+datasets\crop\sugarcane\smut (1612).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (264).jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (693).jpg,sugarcane,3
+datasets\crop\rice\aug_0_2095.jpg,rice,2
+datasets\crop\maize\04ed222d-d287-4199-b412-f2f07c872bee___R.S_HL 8101 copy 2_flipLR.jpg,maize,1
+datasets\crop\wheat\leaf_blight_440.png,wheat,4
+datasets\crop\maize\d47b58e9-1131-425b-a1da-1d607caef89e___R.S_HL 8014 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_7038.jpg,rice,2
+datasets\crop\sugarcane\smut (1123).jpg,sugarcane,3
+datasets\crop\rice\aug_0_9902.jpg,rice,2
+datasets\crop\wheat\leaf_blight_386.png,wheat,4
+datasets\crop\rice\IMG_20231006_164109.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1084).jpg,sugarcane,3
+datasets\crop\maize\764ab13c-df6b-44f5-993c-180aa14ed89f___R.S_HL 7911 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_6593.jpg,rice,2
+datasets\crop\rice\aug_0_9451.jpg,rice,2
+datasets\crop\maize\656c0edc-3b1f-4d8b-adce-6264b69f7aa8___RS_GLSp 4492_new30degFlipLR.JPG,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (110).jpg_perspective.jpg_hvflip.jpg,jute,0
+datasets\crop\jute\Cescospora_leaf_spot  (10).jpg,jute,0
+datasets\crop\rice\aug_0_9463.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1062).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5749.jpg,rice,2
+datasets\crop\maize\77b65e0c-f32f-4c5d-9753-0dff4d9e64c2___R.S_HL 0632 copy.jpg,maize,1
+datasets\crop\sugarcane\smut (1373).jpg,sugarcane,3
+datasets\crop\jute\Healthy (214).jpg,jute,0
+datasets\crop\wheat\healthy_155.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1490).jpg,sugarcane,3
+datasets\crop\maize\fce14144-8f76-43b9-9678-beb2984a56fc___RS_GLSp 4375_270deg.JPG,maize,1
+datasets\crop\wheat\leaf_blight_383.png,wheat,4
+datasets\crop\maize\b363f87e-e6ee-48e4-a0e8-6efe6e1ab592___R.S_HL 8201 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_6379.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1498).jpg,sugarcane,3
+datasets\crop\maize\ccc55a8a-35d3-4621-88a0-0f81af01a7ad___RS_GLSp 3811_90deg.JPG,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (279).jpg,jute,0
+datasets\crop\rice\aug_0_9822.jpg,rice,2
+datasets\crop\maize\7784be50-f9e7-4268-aa17-80359bc7688a___R.S_HL 8231 copy.jpg,maize,1
+datasets\crop\maize\70f07cb5-244a-4140-99fb-0cc87e8914d5___RS_GLSp 4429.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1824).jpg,sugarcane,3
+datasets\crop\rice\aug_0_5438.jpg,rice,2
+datasets\crop\wheat\healthy_437.png,wheat,4
+datasets\crop\wheat\healthy_921.png,wheat,4
+datasets\crop\maize\5f0dff79-a1f4-4498-9165-c4b752a108f7___R.S_HL 5506 copy 3.jpg,maize,1
+datasets\crop\maize\6757fd53-7558-407f-bd79-b52e7c0286b0___R.S_HL 8160 copy.jpg,maize,1
+datasets\crop\rice\aug_0_1964.jpg,rice,2
+datasets\crop\wheat\healthy_266.png,wheat,4
+datasets\crop\maize\97173da1-f3d9-4b42-8e86-3f2a066c1704___RS_GLSp 4449_90deg.JPG,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (31).jpg,jute,0
+datasets\crop\maize\34c6b5a7-11ce-4be0-a7ae-e906e548d557___R.S_HL 8256 copy_flipLR.jpg,maize,1
+datasets\crop\maize\f7e05e2b-6cc5-4b61-93e5-00172e3fa47c___RS_GLSp 9328.JPG,maize,1
+datasets\crop\maize\13a3d820-0844-401b-87cf-9350ba351ac5___R.S_HL 7945 copy.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1060).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (170).jpg,jute,0
+datasets\crop\wheat\leaf_blight_483.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1555).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1391).jpg,sugarcane,3
+datasets\crop\jute\Golden_Mosaic (281).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\aug_0_1671.jpg,rice,2
+datasets\crop\maize\79aa374c-1687-42d4-bf48-84e8b1beb762___RS_GLSp 4408.JPG,maize,1
+datasets\crop\sugarcane\dried_leaves (1007).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1683).jpg,sugarcane,3
+datasets\crop\jute\Healthy (35).jpg_shear.jpg_vflip.jpg,jute,0
+datasets\crop\sugarcane\dried_leaves (315).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1291).jpg,sugarcane,3
+datasets\crop\maize\63885679-bac0-4326-a535-115a8f27c3d2___RS_GLSp 7319_new30degFlipLR.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (22).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (209).jpg,jute,0
+datasets\crop\jute\Healthy (128).jpg,jute,0
+datasets\crop\wheat\septoria_341.png,wheat,4
+datasets\crop\sugarcane\healthy_leaves (1143).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1124).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1517).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_171604.jpg,rice,2
+datasets\crop\rice\aug_0_39.jpg,rice,2
+datasets\crop\rice\aug_0_9459.jpg,rice,2
+datasets\crop\rice\Leaf_scald (59).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (144).jpg,sugarcane,3
+datasets\crop\wheat\healthy_915.png,wheat,4
+datasets\crop\rice\aug_0_6033.jpg,rice,2
+datasets\crop\sugarcane\smut (1487).jpg,sugarcane,3
+datasets\crop\wheat\healthy_925.png,wheat,4
+datasets\crop\wheat\healthy_731.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (421).jpg,sugarcane,3
+datasets\crop\maize\5243e506-339c-4c97-8e1a-86f146aa5684___R.S_HL 8057 copy 2_flipLR.jpg,maize,1
+datasets\crop\sugarcane\dried_leaves (1969).jpg,sugarcane,3
+datasets\crop\maize\f29a6d6b-c2b2-496a-8463-06ce5f44327a___R.S_HL 8076 copy_flipLR.jpg,maize,1
+datasets\crop\rice\Healthy_rice_leaf (174).jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1581).jpg,sugarcane,3
+datasets\crop\maize\d8490a8b-8301-44b8-ae58-875358b8ce94___R.S_HL 8029 copy.jpg,maize,1
+datasets\crop\maize\7cc0887b-1bbc-49f4-8779-f7ff62aab90e___RS_GLSp 9354_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_1528.jpg,rice,2
+datasets\crop\maize\49bbfde1-06f5-41fb-baeb-4008a097a021___R.S_HL 5538 copy 2_flipLR.jpg,maize,1
+datasets\crop\maize\8a51e664-e6dc-4f0e-b3ee-bcd37fac243a___R.S_HL 7953 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_4035.jpg,rice,2
+datasets\crop\maize\9aa6a76b-0385-4574-88a0-50f22b46fa3e___R.S_HL 8296 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1605).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1563).jpg,sugarcane,3
+datasets\crop\sugarcane\healthy_leaves (1453).jpg,sugarcane,3
+datasets\crop\wheat\healthy_280.png,wheat,4
+datasets\crop\rice\aug_0_9684.jpg,rice,2
+datasets\crop\rice\aug_0_7626.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1050).jpg,sugarcane,3
+datasets\crop\jute\Healthy (31).jpg,jute,0
+datasets\crop\sugarcane\healthy_leaves (1127).jpg,sugarcane,3
+datasets\crop\maize\38b8a1b8-b995-42ff-a888-b8d60384ee76___RS_GLSp 9311.JPG,maize,1
+datasets\crop\wheat\healthy_275.png,wheat,4
+datasets\crop\maize\07e00695-1271-4cf1-b08d-63e27969b03d___RS_GLSp 9312_90deg.JPG,maize,1
+datasets\crop\sugarcane\smut (1688).jpg,sugarcane,3
+datasets\crop\rice\aug_0_1440.jpg,rice,2
+datasets\crop\maize\aaac1cf2-e773-4bbd-84ed-da23df25fe03___R.S_HL 8287 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_2822.jpg,rice,2
+datasets\crop\rice\aug_0_2287.jpg,rice,2
+datasets\crop\maize\dbc02d2a-f3ba-47d8-b79b-744210aa69fc___RS_GLSp 4556.JPG,maize,1
+datasets\crop\rice\aug_0_5914.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (17).jpg,sugarcane,3
+datasets\crop\rice\Healthy_rice_leaf (5).jpg,rice,2
+datasets\crop\sugarcane\smut (1108).jpg,sugarcane,3
+datasets\crop\rice\Brown_spot (142).jpg,rice,2
+datasets\crop\rice\aug_0_8411.jpg,rice,2
+datasets\crop\maize\338c8024-b930-49fa-bf1f-21d7874fb7fb___RS_GLSp 4319_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_8026.jpg,rice,2
+datasets\crop\rice\aug_0_417.jpg,rice,2
+datasets\crop\rice\aug_0_3963.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (408).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6072.jpg,rice,2
+datasets\crop\maize\e6f7d1d1-3233-472b-bc11-597eeb02a120___R.S_HL 0596 copy 3_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_8830.jpg,rice,2
+datasets\crop\jute\Healthy (256).jpg,jute,0
+datasets\crop\rice\aug_0_2567.jpg,rice,2
+datasets\crop\maize\41759050-8a14-4394-9558-c74ec19a5e50___RS_GLSp 4685.JPG,maize,1
+datasets\crop\wheat\healthy_62.png,wheat,4
+datasets\crop\wheat\septoria_321.png,wheat,4
+datasets\crop\rice\aug_0_2504.jpg,rice,2
+datasets\crop\jute\Healthy (156).jpg,jute,0
+datasets\crop\sugarcane\smut (1052).jpg,sugarcane,3
+datasets\crop\maize\2ee333db-befc-4ef1-985f-d07df669eddc___R.S_HL 8131 copy_flipLR.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1214).jpg,sugarcane,3
+datasets\crop\maize\bebf32c0-2daa-484c-804b-a6552f30d58d___R.S_HL 5532 copy 2.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (108).jpg,jute,0
+datasets\crop\maize\d94dfd11-4ccf-4d0a-a28b-8166ea4ed49d___R.S_HL 8120 copy_flipLR.jpg,maize,1
+datasets\crop\maize\2253e071-f102-481b-9a3d-e5650698e8a6___R.S_HL 7905 copy 2.jpg,maize,1
+datasets\crop\rice\aug_0_6780.jpg,rice,2
+datasets\crop\rice\aug_0_6141.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (600).jpg,sugarcane,3
+datasets\crop\rice\aug_0_3542.jpg,rice,2
+datasets\crop\wheat\healthy_239.png,wheat,4
+datasets\crop\maize\31ed2f01-16d4-4b0f-8e51-d2b3bf960921___R.S_HL 7987 copy_flipLR.jpg,maize,1
+datasets\crop\jute\Cescospora_leaf_spot  (158).jpg,jute,0
+datasets\crop\jute\Golden_Mosaic (62).jpg,jute,0
+datasets\crop\rice\aug_0_3440.jpg,rice,2
+datasets\crop\rice\aug_0_6183.jpg,rice,2
+datasets\crop\jute\Cescospora_leaf_spot  (283).jpg_gaussian_blur.jpg_hflip.jpg,jute,0
+datasets\crop\rice\aug_0_2328.jpg,rice,2
+datasets\crop\rice\aug_0_2885.jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1578).jpg,sugarcane,3
+datasets\crop\maize\5cbbb4b8-88cc-4d5f-907a-505a2a831b8a___RS_GLSp 4599_270deg.JPG,maize,1
+datasets\crop\wheat\leaf_blight_229.png,wheat,4
+datasets\crop\maize\d63f0a92-e489-4acd-b5df-847a83172abc___RS_GLSp 4607_new30degFlipLR.JPG,maize,1
+datasets\crop\jute\Golden_Mosaic (223).jpg_gaussian_blur.jpg_hvflip.jpg,jute,0
+datasets\crop\maize\fadf58aa-98fd-402a-8fdc-d06e250ec265___RS_GLSp 4557.JPG,maize,1
+datasets\crop\sugarcane\smut (1529).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231014_171525.jpg,rice,2
+datasets\crop\rice\Healthy_rice_leaf (47).jpg,rice,2
+datasets\crop\sugarcane\healthy_leaves (1575).jpg,sugarcane,3
+datasets\crop\maize\d1f9878a-eea5-4008-8a1d-b3a88e2654b8___RS_GLSp 4640_new30degFlipLR.JPG,maize,1
+datasets\crop\rice\aug_0_6759.jpg,rice,2
+datasets\crop\maize\6c602efb-367c-4f64-bd31-35bbf6b5e9a7___R.S_HL 8284 copy.jpg,maize,1
+datasets\crop\sugarcane\healthy_leaves (1097).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1554).jpg,sugarcane,3
+datasets\crop\rice\aug_0_4175.jpg,rice,2
+datasets\crop\rice\aug_0_7268.jpg,rice,2
+datasets\crop\rice\aug_0_7050.jpg,rice,2
+datasets\crop\rice\aug_0_435.jpg,rice,2
+datasets\crop\maize\15d188d6-bade-4281-931a-82264fdae6a4___RS_GLSp 4450_270deg.JPG,maize,1
+datasets\crop\maize\56861977-2bbb-445d-a956-95fcb62f93f7___RS_GLSp 4607 copy.jpg,maize,1
+datasets\crop\rice\aug_0_3510.jpg,rice,2
+datasets\crop\rice\aug_0_2953.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (240).jpg,sugarcane,3
+datasets\crop\sugarcane\dried_leaves (1758).jpg,sugarcane,3
+datasets\crop\rice\Healthy_rice_leaf (46).jpg,rice,2
+datasets\crop\rice\aug_0_6189.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (563).jpg,sugarcane,3
+datasets\crop\maize\22b0a72e-66bf-47ae-86ef-da6e85e31056___RS_GLSp 4405_90deg.JPG,maize,1
+datasets\crop\rice\aug_0_8423.jpg,rice,2
+datasets\crop\maize\cd7d0886-6486-4689-b45c-5e60ea79fdb2___R.S_HL 0623 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\Healthy_rice_leaf (93).jpg,rice,2
+datasets\crop\maize\f85a5f36-d0f7-4aaa-9d28-9ff33d092385___R.S_HL 8207 copy 2_flipLR.jpg,maize,1
+datasets\crop\rice\IMG_20231018_143715 - Copy.jpg,rice,2
+datasets\crop\rice\IMG_20231014_173225.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (169).jpg,sugarcane,3
+datasets\crop\rice\aug_0_6422.jpg,rice,2
+datasets\crop\sugarcane\dried_leaves (1500).jpg,sugarcane,3
+datasets\crop\sugarcane\smut (1579).jpg,sugarcane,3
+datasets\crop\wheat\septoria_1042.png,wheat,4
+datasets\crop\rice\aug_0_7890.jpg,rice,2
+datasets\crop\rice\aug_0_1967.jpg,rice,2
+datasets\crop\maize\482383a3-26f3-468c-807d-91f653941e23___R.S_HL 8323 copy.jpg,maize,1
+datasets\crop\rice\aug_0_3324.jpg,rice,2
+datasets\crop\rice\aug_0_8789.jpg,rice,2
+datasets\crop\wheat\leaf_blight_553.png,wheat,4
+datasets\crop\wheat\healthy_794.png,wheat,4
+datasets\crop\rice\aug_0_7578.jpg,rice,2
+datasets\crop\wheat\leaf_blight_599.png,wheat,4
+datasets\crop\maize\05daf90f-9100-499f-a4aa-ebc5dfc20adf___RS_GLSp 7335_90deg.JPG,maize,1
+datasets\crop\sugarcane\smut (1807).jpg,sugarcane,3
+datasets\crop\jute\Cescospora_leaf_spot  (185).jpg_bright_dec.jpg_anticlockwise.jpg,jute,0
+datasets\crop\maize\22a04678-7f86-4854-b8d6-4c2a54dca6bc___RS_GLSp 4322.JPG,maize,1
+datasets\crop\wheat\leaf_blight_545.png,wheat,4
+datasets\crop\maize\f8f2663a-df9b-4c0b-bddc-0f0c6fc5c7cf___R.S_HL 8126 copy_flipLR.jpg,maize,1
+datasets\crop\rice\aug_0_5476.jpg,rice,2
+datasets\crop\wheat\healthy_506.png,wheat,4
+datasets\crop\sugarcane\dried_leaves (1410).jpg,sugarcane,3
+datasets\crop\rice\IMG_20231018_143842.jpg,rice,2
+datasets\crop\maize\302d1d00-fe10-4ec1-878c-5ac721c6ec44___RS_GLSp 9356_270deg.JPG,maize,1
+datasets\crop\jute\Healthy (213).jpg,jute,0
+datasets\crop\maize\2ca70127-9310-4312-8769-d9d6b43526a1___RS_GLSp 4369_90deg.JPG,maize,1
+datasets\crop\maize\bc95ac1d-48c4-4a4b-a303-7441a09751d9___R.S_HL 7887 copy 2.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (205).jpg,jute,0
+datasets\crop\maize\5d0e77eb-3821-403d-897d-5da32bd13656___R.S_HL 5513 copy 2.jpg,maize,1
+datasets\crop\jute\Golden_Mosaic (50).jpg_gaussian_blur.jpg_anticlockwise.jpg,jute,0
+datasets\crop\rice\aug_0_3804.jpg,rice,2
+datasets\crop\maize\d63f0a92-e489-4acd-b5df-847a83172abc___RS_GLSp 4607_270deg.JPG,maize,1
+datasets\crop\rice\aug_0_7187.jpg,rice,2
+datasets\crop\jute\Healthy (172).jpg_bright_inc.jpg_hflip.jpg,jute,0
+datasets\crop\maize\ca38172d-5f4b-42aa-bef9-e88b94f7f47d___R.S_HL 7932 copy.jpg,maize,1
+datasets\crop\wheat\healthy_958.png,wheat,4
+datasets\crop\wheat\healthy_96.png,wheat,4
+datasets\crop\wheat\leaf_blight_535.png,wheat,4
+datasets\crop\rice\aug_0_2331.jpg,rice,2
